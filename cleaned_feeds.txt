@@ -1,6 +1,5 @@
 70 10974 H 9874=BISS=Champions League=D566 M2 B=4.2.2=20250318-151850 by Ratzvan=6D EA 42 99 63 40 6B 0E=Champions League Women - Play Offs, Bayern Munich v Lyon=
 100 10723 V 14999=BISS=Spain Football=OVERON 1=4.2.2=20250318-154237 by Ratzvan=99 AC AA EF 1B CD B9 A1=LaLiga World=
-70 11011 V 7199=BISS=Basketball=IMG A EU ---> new id: F419_MAIN=4.2.0=20250318-143129 by Ratzvan=EC 6B 4C A3 9E 54 2C 1E=Euroleague, Paris - Olimpia Milano=
 70 11127 V 7198=BISS=Basketball=TUR-161 Main=4.2.0=20250318-152941 by Ratzvan=FF 12 56 67 AC FE BE 68=Champions League, Manisa - Unicaja=
 70 11136 V 7198=BISS=Basketball=TUR 141 - A=4.2.2=20250318-153813 by Ratzvan=51 2B DE 5A AC F6 0D AF=Champions League, Galatasaray - Rytas=
 70 11145 V 7199=BISS=Basketball=CZE-012-M-BCHL Nymburk=4.2.0=20250318-160906 by Ratzvan=34 FF DD 10 61 AC 12 1F=Champions League, Nymburk - Szombathely=
@@ -15,7 +14,6 @@
 530 11592 V 4000=BISS=Middle East Football=SNG 07-Chain A=4.2.0=20250318-170335 by Jacop=24 10 69 9D 58 45 46 E3=ExtraInfo=
 530 11602 V 4000=BISS=Sport Shows & News=UAE -073 M=4.2.0=20250318-170055 by Jacop=75 65 C1 9B 20 48 88 F0=ExtraInfo=
 70 12593 V 9600=BISS=Sport Shows & News=@ POL 068 CH1 (Polsat)=4.2.0=20250318-192114 by klickklack=52 71 41 04 27 88 57 06=ExtraInfo=
-160 12655 H 4444=BISS=Eurovision & News=Unknown=4.2.0=20250318-142010 by falcones==ExtraInfo=
 160 11072 H 7498=BISS=Eurovision & News=Unknown=4.2.0=20250318-170443 by Robertooo=77 93 52 5C 99 08 86 27=ExtraInfo=
 160 12554 V 4800=BISS=Eurovision & News=POL103 (POLSAT)=4.2.2=20250318-171411 by krzyś1=52 71 41 04 27 88 57 06=ExtraInfo=
 260 12735 H 7400=BISS=Egyptian Football=4K_23-MAIN=4.2.0=20250318-190451 by Jacop=EF AB FE 98 A0 2E 02 D0=ExtraInfo=
