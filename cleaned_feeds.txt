@@ -1,35 +1,18 @@
-70 11081 V 9874=BISS=German Football=Unknown=4.2.2=20250309-103110 by Abo Saeid Satellite=15 BB F8 C8 21 EC A9 B6=Bundesliga=
-70 10964 H 14400=BISS=German Football=D514 FRA B-U=4.2.2=20250309-123656 by Dani Sat=62 D8 94 CE BF E2 31 D2=Bundesliga=
-160 12575 H 9874=BISS=German Football=@ FFBL FC Koeln (MTI)=4.2.0=20250309-124057 by klickklack=09 03 FD 09 CC 54 54 74=Bundesliga=
-160 11059 H 3600=BISS=German Football=@ Fal1 Enc1 (Net 1 )=4.2.0=20250309-130707 by klickklack=20 18 AB E3 BA 81 02 3D=Bundesliga=
-280 12572 V 7200=BISS=German Football=@ rt1.tv 3.Liga Muenchen (rt1.tv)=4.2.0=20250309-132230 by klickklack=09 03 FE 0A AE 02 19 C9=Bundesliga=
-70 10982 H 14400=BISS=German Football=D529 HFFM B1D18 BU=4.2.2=20250309-143844 by Dani Sat=AA FF A8 51 EF 88 F9 70=Bundesliga=
-280 12572 V 7200=BISS=German Football=D-528 Essen 3 Liga (rt1.tv)=4.2.0=20250309-190837 by klickklack=09 03 FE 0A AE 02 19 C9=Bundesliga=
-280 12572 V 7200=BISS=Champions League=@ E340/FLY8/Enc 8.1/ LIGUE 2 HD DIRTY MAIN (OVERON)=4.2.0=20250305-180144 by klickklack=F0 9A 4B D5 3F 56 73 08=Champions League=
-70 11130 V 14400=BISS=Champions League=CANAL + ROU051 FEED 1=4.2.0=20250306-110453 by Icone=52 5B BA 67 AD D1 2B A9=Champions League=
-70 11148 V 14400=BISS=Champions League=CANAL + ROU-051 FEED 2=4.2.2=20250306-112259 by Icone=52 5B BA 67 AD D1 2B A9=Champions League=
-280 12572 V 7200=BISS=Champions League=Unknown=4.2.2=20250306-121856 by klickklack=F4 DE CB 9D 49 DE 63 8A=Champions League=
--10 12541 V 6660=BISS=Champions League=ROU015 MAIN=4.2.0=20250306-151942 by Dani Sat=06 03 20 29 25 AB C6 96=Champions League=
--10 12527 V 6660=BISS=Champions League=backup=4.2.0=20250306-152022 by Dani Sat=06 03 20 29 25 AB CD 9D=Champions League=
-70 12594 V 9600=BISS=Champions League=POL 068 CH2=4.2.0=20250306-184549 by Dani Sat=52 71 41 04 27 88 57 06=Champions League=
-70 11104 H 9874=BISS=Champions League=@ LEUK_Fi02 (EUROVISION SA)=4.2.2=20250310-085735 by klickklack=89 1A BC 5F B0 98 49 91=HW-TEST-UEFA=
-100 10768 V 34000=BISS=Belgium Football=Eleven Pro League Int1=4.2.0=20250209-173854 by Hackintosh=0C BC CA 92 8C B4 AA EA=Pro League=
-100 10732 V 33992=BISS=Belgium Football=Eleven Pro League Int1 [0A.HBRC] (Pxs)=4.2.0=20250210-090206 by Ratzvan=8D 81 64 72 01 95 1F B5=Eleven Pro League Highlights=
-100 10732 V 33992=BISS=Belgium Football=Eleven Pro League Int1 [0A.HBRC] (Pxs)=4.2.0=20250214-153526 by Ratzvan=71 5E 40 0F 53 D2 10 35=Jupiler Pro League, St. Liege - Genk=
-100 10767 V 34000=BISS=Belgium Football=Eleven Pro League Int1 [0A.HBRC]=4.2.0=20250216-112928 by xachik=AF 44 DB CE 1E 2F A4 F1=Pro League=
-100 10767 V 34000=BISS=Belgium Football=Eleven Pro League Int1 [0A.HBRC]=4.2.0=20250216-171237 by Jacop=AF 44 DB CE 1E 2F A4 F1=Pro League=
-100 10769 V 34000=BISS=Belgium Football=Eleven Pro League Intl1=4.2.0=20250223-114535 by Dani Sat=C8 28 46 36 91 14 AC 51=Pro League=
-100 10732 V 33992=BISS=Belgium Football=Eleven Pro League Int1 [0A.HBRC] (Pxs)=4.2.0=20250224-090908 by Ratzvan=CB 16 A9 8A 61 DE EF 2E=Eleven Pro League Highlights=
-100 10733 V 34000=BISS=Belgium Football=Eleven Pro League Intl1=4.2.0=20250228-120954 by Dani Sat=42 E1 AF D2 74 F5 0B 74=Pro League=
-100 10769 V 34000=BISS=Belgium Football=Eleven Pro League Intl1=4.2.0=20250301-125403 by Dani Sat=CF 58 B7 DE 0F D1 A6 86=Pro League=
-100 10769 V 34000=BISS=Belgium Football=Eleven Pro League Intl1=4.2.0=20250301-191716 by Dani Sat=AB BA 65 CA 22 34 FF 55=Pro League=
-100 10769 V 34000=BISS=Belgium Football=Eleven Pro League Intl1=4.2.0=20250302-130053 by Dani Sat=56 EC 4C 8E FB 1A 7C 91=Pro League=
-100 10732 V 34000=BISS=Belgium Football=Eleven Pro League Int1 [0A.=4.2.0=20250303-211609 by omid1348=C9 41 7A 84 00 DA 6D 47=Pro League=
-70 11566 V 15000=BISS=Belgium Football=Eleven Pro League Intl1=4.2.0=20250309-121825 by Dani Sat=05 28 38 65 8A 82 1C 28=Pro League=
-100 10733 V 34000=BISS=Belgium Football=Eleven Pro League Intl1=4.2.0=20250309-162909 by Dani Sat=05 28 38 65 8A 82 1C 28=Pro League=
-100 10769 V 34000=BISS=Belgium Football=Eleven Pro League Intl2=4.2.0=20250309-163600 by Dani Sat=8D 9C 94 BD 95 BF 76 CA=Pro League=
-100 10733 V 34000=BISS=Belgium Football=Eleven Pro League Intl1=4.2.0=20250309-170441 by Dani Sat=6C EF 40 9B B0 02 99 4B=Pro League=
-100 10732 V 33992=BISS=Belgium Football=Eleven Pro League Int1 [0A.HBRC] (Pxs)=4.2.0=20250310-045044 by Ratzvan=F2 DA E2 AE CF 18 9D 84=Eleven Pro League Highlights=
+100 10732 V 33992=BISS=Belgium Football=Eleven Pro League Int1 [0A.HBRC] (Pxs)=4.2.0=20250317-072757 by Ratzvan=EC A5 71 02 C1 8C EC 39=Jupiler Pro League Highlights=
+70 10997 V 9872=BISS=Champions League=Fi01_GBIV=4.2.0=20250313-050454 by Ratzvan=DA 74 79 C7 E2 6D 6B BA=Europa League Instant Highlights=
+160 12552 V 9872=BISS=Champions League=HOL309-1 MAIN=4.2.2=20250313-163250 by Ratzvan=37 4C DA 5D 52 E6 89 C1=Europa League - Play Offs , Eintracht Frankfurt - Ajax=
+70 12593 V 9600=BISS=Champions League=@ POLSAT POL-080 HD CH 1 (POLSAT)=4.2.2=20250313-172246 by klickklack=52 71 41 04 27 88 57 06=Champions League=
+31 10960 H 7500=BISS=Champions League=beIN SPORTS=4.2.0=20250313-175013 by AhmedCeNa=BC 4C D1 D9 28 72 CF 69=Champions League=
+31 10969 H 7500=BISS=Champions League=beIN SPORTS=4.2.0=20250313-175013 by AhmedCeNa=BC 4C D1 D9 28 72 CF 69=Champions League=
+70 10961 H 9874=BISS=Champions League=388 UCL M4 BUP=4.2.2=20250318-125419 by Ratzvan=3C 3E 59 D3 D4 A3 B1 28=Champions League Women - Play Offs, Real Madrid v Arsenal=
+70 10974 H 9874=BISS=Champions League=D566 M2 B=4.2.2=20250318-151850 by Ratzvan=6D EA 42 99 63 40 6B 0E=Champions League Women - Play Offs, Bayern Munich v Lyon=
+70 11081 V 9872=BISS=German Football=D-529 KARR B4G12 BU=4.2.2=20250316-105055 by Ratzvan=E0 E2 3D FF 16 88 58 F6=2. Bundesliga, Karlsruher SC - Ulm=
+160 12574 H 9872=BISS=German Football=Frauen BL=4.2.0=20250316-123405 by Ratzvan=16 03 FB 14 EB 02 10 FD=Bundesliga Women, Bayer Leverkusen - Werder Bremen=
+70 10964 H 14396=BISS=German Football=D379 BOCH Main=4.2.2=20250316-125425 by Ratzvan=9E A2 68 A8 E7 14 69 64=Bundesliga, Bochum - Eintracht Frankfurt=
+20 12582 V 7198=BISS=German Football=rt1.tv 3.Liga Muenchen=4.2.0=20250316-153520 by Ratzvan=16 03 BB D4 DC 11 22 0F=3. Liga, Aue - Mannheim=
+70 10982 H 14399=BISS=German Football=D566 HDHM 1D18 M=4.2.2=20250316-154502 by Ratzvan=09 2C B8 ED D0 52 F9 1B=Bundesliga, Heidenheim - Holstein Kiel=
+70 10999 H 14400=BISS=German Football=D382 STGT B1/1G18 M.=4.2.2=20250316-155039 by Icone=90 21 A3 54 A4 17 BD 78=Bundesliga=
+160 12576 H 9872=BISS=German Football=FFBL Freiburg=4.2.0=20250317-163057 by Ratzvan=17 03 DF F9 BD 82 82 C1=Bundesliga Women, Freiburg v Eintracht Frankfurt=
 70 11571 V 7200=BISS=Champions League=CBS Bernabeu=4.2.0=20250303-125641 by mikem93==Champions League=
 70 12568 H 7200=BISS=Champions League=Unknown=4.2.0=20250304-154429 by klickklack==Champions League=
 70 12551 H 17000=BISS=Champions League=Unknown=4.2.0=20250304-154429 by klickklack==Champions League=
@@ -37,25 +20,59 @@
 70 12551 H 17000=BISS=Champions League=@ DOR-LIL (*unnamed-1*)=4.2.0=20250304-163739 by klickklack==Champions League=
 160 12556 H 6332=FTA=Champions League=Unname=4.2.0=20250304-170459 by Akrem==Champions League | ST: 18:45=
 160 12556 H 6332=BISS=Champions League=Unname=4.2.0=20250306-211736 by klickklack==Champions League | ST: 18:45=
+280 12577 V 14400=BISS=Champions League=@ UKI-1462 MAIN (Live Images)=4.2.0=20250311-195535 by klickklack==Champions League=
+280 12658 H 14400=BISS=Champions League=@ UKI-1462 MAIN (Live Images)=4.2.0=20250311-195535 by klickklack==Champions League=
+100 10768 V 33992=BISS=Spain Football=LIGA HYPERMOTION 1=4.2.0=20250316-131553 by Ratzvan=1D 84 8E 2F 3A 58 4B DD=LaLiga2, Huesca - Levante=
+100 10768 V 33992=BISS=Spain Football=SUPPONOR AFRICA 1 (OVERON)=4.2.2=20250316-132127 by Ratzvan=DB EE 39 02 F6 7D 86 F9=LaLiga, Atl. Madrid - Barcelona=
+1005 3925 H 7500=BISS=Spain Football=Unknown=4.2.2=20250316-143441 by HBO=6A 4A A1 55 81 A6 57 7E=ExtraInfo=
+1005 3915 H 7500=BISS=Spain Football=Unknown=4.2.2=20250316-143558 by HBO=F7 BC BE 71 7F 17 BD 53=ExtraInfo=
+1005 3840 H 29720=BISS=Spain Football=Unknown=4.2.2=20250316-154557 by HBO=E4 DF 1C DF D1 06 AA 81=ExtraInfo=
+100 10732 V 33992=BISS=Spain Football=OVERON 2=4.2.2=20250316-155015 by Ratzvan=E4 DF 1C DF D1 06 AA 81=LaLiga, Rayo Vallecano - Real Sociedad=
+70 11514 V 6666=BISS=Spain Football=FRBEIN_ENC_01=4.2.0=20250316-161737 by Icone=20 25 CB 10 E2 AF 31 C2=ExtraInfo=
+70 11498 V 6688=BISS=Spain Football=@ *undefined* (E 388 FEED 1)=4.2.0=20250316-172927 by klickklack=F4 DE CB 9D 49 DE 63 8A=ExtraInfo=
+70 11544 V 7200=BISS=Spain Football=OVERON E-457 V1=4.2.0=20250316-173724 by Saint Hubert=20 23 DD 20 AA 20 22 EC=ExtraInfo=
+70 11506 V 6686=BISS=Spain Football=E-455 VIA 2=4.2.0=20250316-174025 by AhmedCeNa=20 25 CB 10 E2 AF 31 C2=ExtraInfo=
+70 11544 V 7200=BISS=Spain Football=OVERON E-457 V1=4.2.0=20250316-174925 by AhmedCeNa=20 23 DD 20 AA 20 22 EC=ExtraInfo=
+70 11552 V 7200=BISS=Spain Football=OVERON E-457 V1=4.2.0=20250316-174925 by AhmedCeNa=20 23 DD 20 AA 20 22 EC=ExtraInfo=
+100 10732 V 34000=BISS=Spain Football=OVERON 1 (OVERON)=4.2.2=20250316-175407 by Hackintosh=61 8B 7E 6A E2 5C BC FA=ExtraInfo=
+70 11570 V 7500=BISS=Spain Football=AT.MADRID HD5D FEED ZIGGO U=4.2.2=20250316-190925 by Icone=43 FF B1 F3 B2 CD DD 5C=ExtraInfo=
+70 3840 H 29720=BISS=Spain Football=Unknown=4.2.2=20250316-193142 by Albahraniy=61 8B 7E 6A E2 5C BC FA=ExtraInfo=
+-300 12092 H 30000=BISS=Spain Football=Unknown=4.2.0=20250316-200639 by ozielgoiano=33 42 AC 21 CF 22 14 05=ExtraInfo=
+100 10732 V 33992=BISS=Spain Football=OVERON 1 (OVERON)=4.2.2=20250317-072631 by Ratzvan=EB D7 B0 72 D5 E6 40 FB=LaLiga Show=
+100 10732 V 33992=BISS=Spain Football=LIGA HYPERMOTION 1 (Harris)=4.2.0=20250317-072720 by Ratzvan=C5 64 82 AB 3D 36 63 D6=LaLiga2, Castellon - Dep. La Coruna=
+100 10723 V 14999=BISS=Spain Football=OVERON 1=4.2.2=20250318-154237 by Ratzvan=99 AC AA EF 1B CD B9 A1=LaLiga World=
 70 12704 V 7500=BISS=Motor Sport=@ ENC-13 (SES)=4.2.0=20250308-220125 by klickklack=CA 11 B4 8F 92 CF ED 4E=Nascar Phoenix Raceway=
 70 12726 V 7500=BISS=Motor Sport=@ ENC-13 (SES)=4.2.0=20250308-220125 by klickklack=CA 11 B4 8F 92 CF ED 4E=Nascar Phoenix Raceway=
 70 12704 V 7500=BISS=Motor Sport=ENC 22=4.2.0=20250309-190710 by jsc5=CA 11 B4 8F 92 CF ED 4E=ExtraInfo=
-100 10733 V 34000=BISS=Spain Football=SUPPONOR MENA 1=4.2.2=20250309-114458 by Dani Sat=DC F9 88 5D 24 D7 DD D8=ExtraInfo=
-100 10733 V 34000=BISS=Spain Football=SUPPONOR MENA 2=4.2.2=20250309-114534 by Dani Sat=B0 96 D7 1D 76 CB BB FC=ExtraInfo=
-100 10769 V 34000=BISS=Spain Football=SUPPONOR AFRICA 2=4.2.2=20250309-114659 by Dani Sat=37 29 09 69 5C 66 8F 51=ExtraInfo=
-100 10769 V 34000=BISS=Spain Football=SUPPONOR EASTERN 1=4.2.2=20250309-114730 by Dani Sat=E1 40 EB 0C 8D 55 4C 2E=ExtraInfo=
-100 10769 V 34000=BISS=Spain Football=SUPPONOR EASTERN 2=4.2.2=20250309-114804 by Dani Sat=57 3C CF 62 A3 91 24 58=ExtraInfo=
-100 10769 V 34000=BISS=Spain Football=SUPPONOR RUSIA 1=4.2.2=20250309-115517 by Dani Sat=23 A5 F0 B8 B3 9B D3 21=ExtraInfo=
-70 11566 V 15000=BISS=Spain Football=LIGA HYPERMOTION 1=4.2.0=20250309-121732 by Dani Sat=AA CA 29 9D F6 79 0B 7A=ExtraInfo=
-1005 3985 V 7500=BISS=Spain Football=Unknown=4.2.2=20250309-133211 by HBO=1F D4 FE F1 32 35 73 DA=ExtraInfo=
-1005 3915 H 7500=BISS=Spain Football=Unknown=4.2.2=20250309-133322 by HBO=34 6B CC 6B 65 2A 51 E0=ExtraInfo=
-1005 3925 H 7500=BISS=Spain Football=Unknown=4.2.2=20250309-135747 by HBO=B0 75 7A 9F 5B 24 7C FB=ExtraInfo=
-100 10733 V 34000=BISS=Spain Football=OVERON 1=4.2.2=20250309-152951 by Dani Sat=30 4B 27 A2 EE B8 9F 45=ExtraInfo=
-1005 3840 H 29720=BISS=Spain Football=Unknown=4.2.2=20250309-154743 by HBO=30 4B 27 A2 EE B8 9F 45=ExtraInfo=
-100 10733 V 34000=BISS=Spain Football=OVERON 2=4.2.2=20250309-172747 by Dani Sat=66 4E BA 6E B0 06 51 07=ExtraInfo=
-1005 3840 H 29722=BISS=Spain Football=OVERON 2 (Provider ID: Servicios Audiovisuales Overon, S L)=4.2.2=20250309-191651 by safrifulkamal=66 4E BA 6E B0 06 51 07=Spain - LALIGA EA SPORTS Matchday 27=
-100 10732 V 33992=BISS=Spain Football=OVERON 1 (OVERON)=4.2.2=20250310-044922 by Ratzvan=42 67 50 F9 A7 BB 55 B7=LaLiga Show=
-100 10732 V 33992=BISS=Spain Football=SUPPONOR EASTERN 2 (Overon)=4.2.2=20250310-044953 by Ratzvan=57 3C CF 62 A3 91 24 58=LaLiga, Espanyol - Girona=
+70 12703 V 7198=BISS=Motor Sport=ENC 2=4.2.0=20250314-101937 by Ratzvan=90 47 BE 95 CC 5E 47 71=RALLY MAGAZINE=
+1005 3992 V 7200=BISS=Motor Sport=ENC 2=4.2.0=20250314-102207 by Albahraniy=90 47 BE 95 CC 5E 47 71=RALLY MAGAZINE=
+70 11128 V 9872=BISS=Motor Sport=IPF=4.2.0=20250314-115105 by Ratzvan=BB B8 0D 80 49 FC AB F0=MOTOGP: Termas de Rio Hondo (Argentina) - Practice=
+70 12726 V 7500=BISS=Motor Sport=ENC 8=4.2.0=20250315-010811 by Albahraniy=CA 11 B4 8F 92 CF ED 4E=ExtraInfo=
+70 12654 V 9875=BISS=Motor Sport=TBS G22 E 351 VIA 1=4.2.0=20250315-155053 by believing_boy=13 46 35 8E 4F 29 D0 48=ExtraInfo=
+70 12727 V 7500=BISS=Motor Sport=ENC 14=4.2.0=20250315-155440 by Icone=CA 11 B4 8F 92 CF ED 4E=ExtraInfo=
+70 11128 V 9872=BISS=Motor Sport=IPF=4.2.0=20250315-180112 by Icone=BB B8 0D 80 49 FC AB F0=MOTOGP: Termas de Rio Hondo (Argentina) - Practice=
+80 11069 V 9874=BISS=Motor Sport=TBS G22 E 351 VIA 1=4.2.0=20250316-083210 by Ratzvan=13 46 35 8E 4F 29 D0 48=MXGP CASTILLA LA MANCHA (Spain)=
+70 11128 V 9872=BISS=Motor Sport=IPF=4.2.0=20250316-125636 by Icone=BB B8 0D 80 49 FC AB F0=MOTOGP: Termas de Rio Hondo (Argentina) - Practice=
+70 12726 V 7500=BISS=Motor Sport=@ ENC 21 (SES)=4.2.2=20250316-201839 by klickklack==Nascar Phoenix Raceway=
+70 12726 V 7500=BISS=Motor Sport=@ ENC 21 (SES)=4.2.2=20250316-211504 by zico268==Nascar Phoenix Raceway=
+70 12639 V 7120=BISS=British Football=Pitch EFL-Bristol City vs Norwich=4.2.0=20250314-193353 by Jacop==ExtraInfo=
+1005 3915 H 7120=BISS=British Football=Unknown=4.2.0=20250315-095901 by HBO=44 F7 39 74 09 BE 23 EA=ExtraInfo=
+1005 3925 H 7120=BISS=British Football=Unknown=4.2.0=20250315-095934 by HBO=5A D3 32 5F 46 C4 67 71=ExtraInfo=
+70 12726 V 7119=BISS=British Football=EFL - Millwall v Stoke City=4.2.0=20250315-115424 by Albahraniy=5A D3 32 5F 46 C4 67 71=ExtraInfo=
+70 11458 V 7200=BISS=British Football=GCUK Enc 8=4.2.0=20250315-120039 by Albahraniy=91 BB EE 3A FF 15 03 17=ExtraInfo=
+-10 11505 V 15000=BISS=British Football=Unknown=4.2.2=20250316-105601 by archiesat=29 5C 24 A9 AC 5F EB F6=ExtraInfo=
+31 10960 H 7500=BISS=British Football=bein Sports=4.2.0=20250316-113650 by frightlinerman21==ExtraInfo=
+31 10969 H 7500=BISS=British Football=bein Sports=4.2.0=20250316-113650 by frightlinerman21==ExtraInfo=
+1005 3935 H 7120=BISS=British Football=Unknown=4.2.0=20250316-114230 by HBO=16 03 CC E5 FF 20 25 44=ExtraInfo=
+70 11514 V 6666=BISS=British Football=BeIN EPL Unilateral Arsenal=4.2.0=20250316-123529 by Icone=BA 44 85 83 DC 55 AD DE=ExtraInfo=
+70 11523 V 7200=BISS=British Football=GCUK Enc 3=4.2.0=20250316-141217 by Icone=AD 38 DA BF 34 CC 48 48=ExtraInfo=
+1005 3905 H 7120=BISS=British Football=Unknown=4.2.0=20250316-151325 by HBO=16 03 CC E5 FF 20 25 44=ExtraInfo=
+70 12695 V 7120=BISS=British Football=Pitch - Carabao Cup Final=4.2.0=20250316-151901 by AhmedCeNa=16 03 CC E5 FF 20 25 44=ExtraInfo=
+100 11288 V 7120=BISS=British Football=GCUK Enc 10=4.2.0=20250316-160235 by AhmedCeNa=16 03 CC E5 FF 20 25 44=ExtraInfo=
+160 12610 H 7200=BISS=British Football=FRBEIN_ENC_02=4.2.0=20250316-160703 by Jacop=23 FC 17 36 71 DE D5 24=ExtraInfo=
+160 12591 H 7200=BISS=British Football=UKI 1871 PATH 1=4.2.0=20250316-161151 by Jacop=23 FC 17 36 71 DE D5 24=ExtraInfo=
+160 12600 H 7200=BISS=British Football=UKI 1871 PATH 1=4.2.0=20250316-161151 by Jacop=23 FC 17 36 71 DE D5 24=ExtraInfo=
+70 12726 V 7118=BISS=British Football=Pitch Caraboa cup Highlights=4.2.0=20250317-093013 by Ratzvan=52 02 FF 53 CC 30 61 5D=EFL Cup Highlights=
 160 10973 V 9600=BISS=Boxing=POL 030=4.2.2=20250301-201226 by krzyś1=DC AE 20 AA 25 CC 03 F4=Boxing: MB Boxing Night 23: Big Impact - middleweight: Karol Welter - Alcorac Caballero=
 70 12726 V 7500=BISS=Boxing=PBC=4.2.0=20250301-235822 by Akrem=98 7C 65 79 4B 32 1A 97=ExtraInfo=
 1005 3933 H 7500=BISS=Boxing=PBC=4.2.0=20250302-000152 by Albahraniy=98 7C 65 79 4B 32 1A 97=ExtraInfo=
@@ -67,17 +84,15 @@
 282 12575 H 7200=BISS=Boxing=Sky Boxing A=4.2.2=20250307-155533 by barney115=12 34 5A A0 20 25 03 48=Sky Sport Boxing, Jonas N vs Price L.=
 1005 3905 H 7200=BISS=Boxing=Unknown=4.2.0=20250307-175314 by HBO=AC 9B 32 79 1F 11 93 C3=ExtraInfo=
 70 11523 V 7200=BISS=Boxing=Unknown=4.2.0=20250307-194336 by archiesat=AC 9B 32 79 1F 11 93 C3=ExtraInfo=
-1005 3905 V 7200=BISS=British Football=Unknown=4.2.0=20250308-111619 by HBO==ExtraInfo=
-1005 3925 H 7120=BISS=British Football=BT_SES_6_SDI=4.2.0=20250308-120222 by mikem93==ExtraInfo=
-70 12725 V 7120=BISS=British Football=BT_SES_6_SDI=4.2.0=20250308-120222 by mikem93==ExtraInfo=
-70 11180 V 7119=BISS=British Football=Derby C v Blackburn Rovers=4.2.2=20250308-142830 by Albahraniy=52 C3 52 67 92 13 24 C9=ExtraInfo=
-31 10969 H 7500=BISS=British Football=service=4.2.0=20250308-160857 by Jacop==ExtraInfo=
-70 12726 V 7119=BISS=British Football=EFL Highlights 2024/25 - Show 29=4.2.0=20250309-100206 by Albahraniy=20 25 FC 41 C2 29 02 ED=ExtraInfo=
-70 11011 V 7200=BISS=British Football=IMG A EU=4.2.0=20250309-110507 by Akrem=BC AA 45 AB 56 BB CA DB=ExtraInfo=
--30 10996 V 10000=BISS=British Football=ITV Portsmouth v Ls=4.2.0=20250309-112730 by archiesat=A9 24 B2 7F BC 1B B2 89=ExtraInfo=
-70 12676 V 7120=BISS=British Football=Women's FA Cup-Mancheste=4.2.0=20250309-115428 by Akrem=21 41 DC 3E CA 24 42 30=ST: 13:30=
-70 12703 V 7120=BISS=British Football=EFL - Portsmouth v Leeds Utd=4.2.0=20250309-115649 by mikem93==ExtraInfo=
-70 11514 V 6666=BISS=British Football=EPL Unilateral: Manchester=4.2.0=20250309-154234 by Jacop==ExtraInfo=
+70 11460 V 7199=BISS=Boxing=Boxxer event=4.2.0=20250313-085346 by Ratzvan=FA 42 88 C4 76 FA 34 A4=Top Rank Boxing=
+1005 3894 V 7200=BISS=Boxing=Boxxer event=4.2.0=20250313-095130 by Albahraniy=FA 42 88 C4 76 FA 34 A4=Top Rank Boxing=
+70 12654 V 7200=BISS=Boxing=YSM-013M=4.2.0=20250314-120252 by Albahraniy=20 25 CC 11 CC 20 24 10=ExtraInfo=
+160 10973 V 9600=BISS=Boxing=POL-111 (TVP)=4.2.2=20250314-180741 by krzyś1=DC AE 20 AA 25 CC 03 F4=Boxing: PZB Suzuki Boxing Night 34 in Mielec=
+70 12524 V 10000=BISS=Boxing=ITA465 Milano=4.2.2=20250315-152031 by Icone=6D D8 6D B2 DA 14 8F 7D=ExtraInfo=
+160 10964 V 4798=BISS=Boxing=Unknown=4.2.2=20250315-180549 by Robertooo=DC AE 20 AA 25 CC 03 F4=ExtraInfo=
+1005 4173 H 7200=BISS=Boxing=GCA HD ENC-1=4.2.0=20250315-204322 by Albahraniy=23 11 AB DF CD 43 21 31=ExtraInfo=
+-931 4032 H 7500=BISS=Boxing=DAZN CC=4.2.0=20250316-002246 by SatEze=A2 73 94 A9 B6 C8 09 87=ExtraInfo=
+70 12640 V 7200=BISS=Boxing=YSM-013M=4.2.0=20250316-154446 by Icone=20 25 CC 11 CC 20 24 10=ExtraInfo=
 1005 3925 H 7120=BISS=British Football=Unknown=4.2.0=20250304-193558 by yun=59 AD 35 3B E4 13 5F 56=ExtraInfo=
 160 12691 V 10000=FTA=British Football=UKi-1573=4.2.0=20250304-205904 by Jacop==ExtraInfo=
 160 12703 V 10000=FTA=British Football=UKi-1573=4.2.0=20250304-205904 by Jacop==ExtraInfo=
@@ -85,6 +100,36 @@
 160 12702 V 10000=BISS=British Football=Service 01=4.2.0=20250308-113052 by archiesat==ExtraInfo=
 160 12692 V 10000=BISS=British Football=Service 01=4.2.0=20250308-113211 by archiesat==ExtraInfo=
 282 12598 V 15000=FTA=British Football=Belfast SKY=4.2.2=20250309-142422 by candu==ExtraInfo=
+160 12692 V 10000=BISS=British Football=Uki-1573=4.2.0=20250310-180543 by archiesat==ExtraInfo=
+160 12692 V 10000=BISS=British Football=Uki-1573=4.2.0=20250314-180926 by archiesat==ExtraInfo=
+160 12702 V 10000=BISS=British Football=Service 01=4.2.0=20250314-185922 by archiesat==ExtraInfo=
+160 12704 V 10000=FTA=British Football=Unknown=4.2.0=20250314-200640 by klickklack==ExtraInfo=
+160 12704 V 10000=FTA=British Football=Unknown=4.2.0=20250314-201517 by klickklack==ExtraInfo=
+160 12712 V 2000=FTA=British Football=Unknown=4.2.0=20250314-201517 by klickklack==ExtraInfo=
+160 12692 V 10000=FTA=British Football=Unknown=4.2.0=20250314-201517 by klickklack==ExtraInfo=
+160 12704 V 10000=FTA=British Football=Unknown=4.2.0=20250315-070943 by archiesat=59 AD 35 3B E4 13 5F 56=ExtraInfo=
+1005 3925 H 7120=FTA=British Football=Unknown=4.2.0=20250315-070943 by archiesat=59 AD 35 3B E4 13 5F 56=ExtraInfo=
+31 12712 V 2000=BISS=British Football=Unknown=4.2.0=20250315-071125 by archiesat=59 AD 35 3B E4 13 5F 56=ExtraInfo=
+31 12692 V 10000=BISS=British Football=Unknown=4.2.0=20250315-071125 by archiesat=59 AD 35 3B E4 13 5F 56=ExtraInfo=
+1005 3925 H 7120=BISS=British Football=Unknown=4.2.0=20250315-071125 by archiesat=59 AD 35 3B E4 13 5F 56=ExtraInfo=
+70 12640 V 7120=BISS=British Football=Pitch - EFL - West Brom V Hull=4.2.0=20250315-143747 by believing_boy==ExtraInfo=
+-10 11016 V 14246=BISS=British Football=Unknown=4.2.2=20250315-165043 by Robertooo==ExtraInfo=
+70 11461 V 7200=FTA=British Football=GCUK Enc 2=4.2.0=20250316-122505 by joshp79==ExtraInfo=
+70 11590 V 7200=BISS=British Football=wembley feed a=4.2.0=20250316-134747 by mikem93==ExtraInfo=
+20 12703 V 7120=FTA=British Football=ANNAN V QU=4.2.0=20250316-155338 by Ferari3000==ExtraInfo=
+70 11590 V 7200=FTA=British Football=wembley feed a=4.2.0=20250316-155541 by AhmedCeNa==ExtraInfo=
+70 11598 V 7200=FTA=British Football=wembley feed a=4.2.0=20250316-155541 by AhmedCeNa==ExtraInfo=
+765 4054 H 7500=BISS=Tennis Feeds=Unknown=4.2.0=20250228-163950 by orangebirds==ExtraInfo=
+1005 4146 H 7500=BISS=Tennis Feeds=ATP 500 Acapulco WF=4.2.2=20250301-003948 by Albahraniy=FA 26 BB DB 66 BE 09 2D=ExtraInfo=
+1005 4156 H 7500=BISS=Tennis Feeds=Unknown=4.2.2=20250301-164448 by Albahraniy=ED 92 FB 7A 98 AA 99 DB=ExtraInfo=
+1005 4147 H 7500=BISS=Tennis Feeds=Unknown=4.2.2=20250302-015359 by orangebirds==ExtraInfo=
+70 11126 H 7500=BISS=Tennis Feeds=Encoder 1=4.2.2=20250305-030500 by Akrem=5B CA 3F 64 A8 8A A4 D6=ExtraInfo=
+765 4054 H 7500=BISS=Tennis Feeds=Unknown=4.2.0=20250306-184403 by yun=45 78 BA 77 BB 23 56 34=ExtraInfo=
+160 12617 H 9600=BISS=Tennis Feeds=SNG ABC1=4.2.0=20250308-111007 by Jacop=55 BB 44 54 22 CC AA 98=ExtraInfo=
+765 4054 H 7500=BISS=Tennis Feeds=Unknown=4.2.2=20250313-233053 by Forsat==ExtraInfo=
+70 12547 H 9600=BISS=Tennis Feeds=SNG ABC 1=4.2.0=20250315-112958 by Albahraniy=CC AA 55 CB BB 12 34 01=ExtraInfo=
+70 12547 H 9600=BISS=Tennis Feeds=SNG ABC 1=4.2.0=20250315-114223 by jngalf123=CC AA 55 CB BB 12 34 01=ExtraInfo=
+765 4054 H 7500=BISS=Tennis Feeds=Unknown=4.2.2=20250316-001500 by Forsat==ExtraInfo=
 280 12517 H 15000=BISS=Darts Feeds=Premiere Leage Darts - Dublin=4.2.2=20250220-161902 by Ratzvan=12 34 5A A0 20 25 02 47=Premier League Darts 2025: Dublin=
 280 12516 H 14996=BISS=Darts Feeds=Premiere Leage Darts - Dublin=4.2.2=20250220-161902 by Ratzvan=12 34 5A A0 20 25 02 47=Premier League Darts 2025: Dublin=
 70 12694 V 7199=BISS=Darts Feeds=Matchroom - PL Darts 2024=4.2.0=20250220-190130 by Unknown User=D9 51 AB D5 CA 34 78 76=ExtraInfo=
@@ -93,113 +138,82 @@
 -30 11666 V 10000=BISS=Darts Feeds=Unknown=4.2.0=20250302-155331 by archiesat=C9 53 A5 C1 CA 34 E8 E6=ExtraInfo=
 -10 11504 V 15000=BISS=Darts Feeds=Unname=4.2.2=20250306-184603 by Dani Sat=2A DA 4E 52 D5 F2 C6 8D=ExtraInfo=
 -30 11530 V 10000=BISS=Darts Feeds=Unknown=4.2.0=20250307-175418 by archiesat=17 28 CB 0A EA 3A 71 95=ExtraInfo=
+-30 11684 V 19995=BISS=Darts Feeds=Sky Darts Nottingham=4.2.2=20250313-172825 by Ratzvan=12 34 5A A0 20 25 03 48=Premier League - Night 6=
 70 11692 H 7500=BISS=South American Football=AFD - River Plate v Atl Tuc=4.2.0=20250309-214203 by AhmedCeNa=1D C2 4C 2B BB 61 AC C8=ExtraInfo=
-765 4054 H 7500=BISS=Tennis Feeds=Unknown=4.2.0=20250228-163950 by orangebirds==ExtraInfo=
-1005 4146 H 7500=BISS=Tennis Feeds=ATP 500 Acapulco WF=4.2.2=20250301-003948 by Albahraniy=FA 26 BB DB 66 BE 09 2D=ExtraInfo=
-1005 4156 H 7500=BISS=Tennis Feeds=Unknown=4.2.2=20250301-164448 by Albahraniy=ED 92 FB 7A 98 AA 99 DB=ExtraInfo=
-1005 4147 H 7500=BISS=Tennis Feeds=Unknown=4.2.2=20250302-015359 by orangebirds==ExtraInfo=
-70 11126 H 7500=BISS=Tennis Feeds=Encoder 1=4.2.2=20250305-030500 by Akrem=5B CA 3F 64 A8 8A A4 D6=ExtraInfo=
-765 4054 H 7500=BISS=Tennis Feeds=Unknown=4.2.0=20250306-184403 by yun=45 78 BA 77 BB 23 56 34=ExtraInfo=
-160 12617 H 9600=BISS=Tennis Feeds=SNG ABC1=4.2.0=20250308-111007 by Jacop=55 BB 44 54 22 CC AA 98=ExtraInfo=
+70 11692 H 7500=BISS=South American Football=AFD=4.2.0=20250310-235624 by AhmedCeNa=1D C2 4C 2B BB 61 AC C8=ExtraInfo=
+-340 3836 H 7500=BISS=South American Football=Unknown=4.2.0=20250311-005454 by ozielgoiano=F0 F0 10 F0 03 20 25 48=ExtraInfo=
+350 3846 H 7500=BISS=South American Football=Unknown=4.2.0=20250311-005454 by ozielgoiano=F0 F0 10 F0 03 20 25 48=ExtraInfo=
+350 3810 H 8571=BISS=South American Football=Unknown=4.2.0=20250311-005454 by ozielgoiano=F0 F0 10 F0 03 20 25 48=ExtraInfo=
+100 10723 V 15000=BISS=South American Football=OCC 1=4.2.2=20250311-210547 by Jacop=F6 E5 44 1F 22 AB 90 5D=ExtraInfo=
+1005 3840 H 29722=BISS=South American Football=OCC 1 (Provider ID: Servicios Audiovisuales Overon, S L)=4.2.2=20250311-215201 by safrifulkamal=F6 E5 44 1F 22 AB 90 5D=CONMEBOL - Copa Libertadores (2nd Leg Stage 3)=
+100 10723 V 15000=BISS=South American Football=OCC 1=4.2.2=20250312-213233 by Jacop=A1 B2 90 E3 13 F8 D1 DC=ExtraInfo=
+900 3840 H 29720=BISS=South American Football=OCC 1=4.2.2=20250312-214145 by Albahraniy=A1 B2 90 E3 13 F8 D1 DC=ExtraInfo=
+1005 3840 H 29720=BISS=South American Football=Unknown=4.2.2=20250313-182214 by HBO=CF 13 18 FA 05 AE 03 B6=ExtraInfo=
+70 11692 H 7500=BISS=South American Football=AFD-Godoy Cruz V San Lor=4.2.0=20250314-232354 by Akrem=52 6D 1A D9 CE 45 51 64=ST: 01:00=
+70 12676 H 7500=BISS=South American Football=AFD=4.2.0=20250315-185246 by Jacop=52 6D 1A D9 CE 45 51 64=ExtraInfo=
+70 11692 H 7499=BISS=South American Football=AFD=4.2.0=20250316-203932 by Ratzvan=52 6D 1A D9 CE 45 51 64=Argentinean Primera División - Boca Juniors - Defensa y Justicia=
+70 11691 H 7500=BISS=South American Football=AFD-Tigre vs Central=4.2.0=20250317-212753 by Jacop=52 6D 1A D9 CE 45 51 64=ExtraInfo=
+100 11274 H 5000=FTA=Basketball=ITA 556 HD16 - Main=4.2.0=20250316-194318 by klickklack==ExtraInfo=
+420 11478 V 6798=BISS=Basketball=TUR 136 A=4.2.2=20250318-120559 by Ratzvan=03 00 00 03 03 20 25 48=Turkish Cup Women, Nesibe Aydin - Fenerbahce=
+70 11011 V 7199=BISS=Basketball=IMG A EU ---> new id: F419_MAIN=4.2.0=20250318-143129 by Ratzvan=EC 6B 4C A3 9E 54 2C 1E=Euroleague, Paris - Olimpia Milano=
+70 11127 V 7198=BISS=Basketball=TUR-161 Main=4.2.0=20250318-152941 by Ratzvan=FF 12 56 67 AC FE BE 68=Champions League, Manisa - Unicaja=
+70 11136 V 7198=BISS=Basketball=TUR 141 - A=4.2.2=20250318-153813 by Ratzvan=51 2B DE 5A AC F6 0D AF=Champions League, Galatasaray - Rytas=
+70 11145 V 7199=BISS=Basketball=CZE-012-M-BCHL Nymburk=4.2.0=20250318-160906 by Ratzvan=34 FF DD 10 61 AC 12 1F=Champions League, Nymburk - Szombathely=
+70 11154 V 7199=BISS=Basketball=EDS806HD.1=4.2.0=20250318-192647 by Ratzvan=FF 66 77 DC DD AA 11 98=Champions League, Manresa - Reggiana=
 1005 3860 V 30000=BISS=Wrestling Feeds=IMG Asia=4.2.0=20250304-001906 by joshp79==WWE RAW=
 70 12727 V 7500=BISS=Wrestling Feeds=AEW Revolution PPV 2025 - Los Angeles=4.2.0=20250309-211017 by jsc5=9F C6 41 A6 AA 54 1C 1A=ExtraInfo=
-305 11181 H 9875=BISS=Basketball=MAIN=4.2.0=20250307-185638 by Jacop=9C 1E F6 B0 C9 18 A3 84=ExtraInfo=
-1005 4120 H 30000=BISS=Basketball=Unknown=4.2.0=20250308-104102 by HBO==ExtraInfo=
-70 11135 H 7500=BISS=Basketball=TUR 158 A=4.2.2=20250308-115051 by Jacop=CB 36 45 46 A8 D3 11 8C=ExtraInfo=
-70 11514 V 6666=BISS=Basketball=FRBEIN_ENC_01=4.2.0=20250308-121234 by Jacop==ExtraInfo=
-160 12571 H 4936=BISS=Basketball=Unknown=4.2.0=20250308-171458 by Robertooo=20 25 CC 11 CC 20 24 10=ExtraInfo=
-70 11152 V 7200=BISS=Basketball=Encoder 1=4.2.2=20250308-185606 by Albahraniy=52 5B BA 67 AD D1 2B A9=ExtraInfo=
-70 11152 V 7200=FTA=Basketball=Encoder 1=4.2.2=20250308-185913 by xachik=52 5B BA 67 AD D1 2B A9=ExtraInfo=
-420 11090 V 7500=BISS=Basketball=TUR 25 A=4.2.2=20250309-081632 by Akrem=98 7B 3F 52 89 54 66 43=ExtraInfo=
-420 11109 V 7500=BISS=Basketball=TUR-034_A=4.2.2=20250309-091532 by Akrem=CF B1 11 91 82 16 D4 6C=ExtraInfo=
-70 11061 V 7200=BISS=Basketball=Fi_ACB_Main=4.2.0=20250309-093329 by Akrem=17 BA D9 AA 35 A4 F8 D1=ExtraInfo=
-70 12638 V 4937=BISS=Basketball=YSM-016 MAIN=4.2.0=20250309-105749 by Akrem=20 25 CC 11 CC 20 24 10=ExtraInfo=
-160 12591 H 4937=BISS=Basketball=@ YSM-013M (YSM-13M )=4.2.0=20250309-125503 by klickklack=20 25 CC 11 CC 20 24 10=World Tour. 3x3. Belgrade 2025=
-280 12611 V 9600=BISS=Basketball=@ E349/G19 MAIN (Service Provider)=4.2.0=20250309-133541 by klickklack=F2 A7 85 1E 30 59 89 12=ExtraInfo=
-20 12657 H 9600=BISS=Basketball=E115 G65 VIA 1=4.2.0=20250309-174722 by Ferari3000=51 42 20 B3 25 20 24 69=ExtraInfo=
-70 12639 V 4937=BISS=Basketball=YSM-021 m=4.2.0=20250309-175427 by jsc5=20 25 CC 11 CC 20 24 10=ExtraInfo=
+1005 3915 V 7200=BISS=Wrestling Feeds=Unknown=4.2.0=20250310-222252 by HBO==ExtraInfo=
+70 11593 V 30000=BISS=Wrestling Feeds=WWE PROGRAM P1P=4.2.2=20250314-145319 by Jacop==ExtraInfo=
+70 11593 V 30000=BISS=Wrestling Feeds=WWE PROGRAM P1P=4.2.2=20250314-150236 by waldmeister==ExtraInfo=
+160 12605 H 30000=BISS=Wrestling Feeds=WWE PROGRAM P1P=4.2.2=20250314-150236 by waldmeister==ExtraInfo=
+70 11011 V 7200=BISS=Wrestling Feeds=Unknown=4.2.0=20250314-172126 by Jacop==ExtraInfo=
+70 11680 H 30000=BISS=Wrestling Feeds=SVC 1 Trk Prodn=4.2.2=20250314-174643 by AhmedCeNa=74 2D 69 0A 47 75 40 FC=ExtraInfo=
+70 12735 V 7198=BISS=Wrestling Feeds=ENC 21=4.2.0=20250317-160227 by Ratzvan=12 3C AA F8 14 22 A3 D9=WWE RAW=
+70 11593 V 30000=BISS=Wrestling Feeds=WWE PROGRAM P1P=4.2.2=20250317-163449 by AhmedCeNa=9C B5 1D 6E 5A E3 1A 57=ExtraInfo=
+160 12606 H 30000=BISS=Wrestling Feeds=WWE PROGRAM P2P=4.2.2=20250317-163607 by AhmedCeNa=9C B5 1D 6E 5A E3 1A 57=ExtraInfo=
+1005 3860 V 30000=BISS=Wrestling Feeds=IMG Asia=4.2.0=20250317-170511 by joshp79=85 A2 47 6E 13 15 E3 0B=WWE RAW=
+70 12690 V 30000=BISS=Wrestling Feeds=SVC 1 Trk Prodn MP4 10B=4.2.2=20250317-173419 by AhmedCeNa=9C B5 1D 6E 5A E3 1A 57=ExtraInfo=
 70 10996 H 7200=BISS=Volleyball=ITA487World=4.2.0=20250309-181903 by Ferari3000=45 0A 6A B9 74 58 D8 A4=ExtraInfo=
 70 11005 H 7200=BISS=Volleyball=ITA487World=4.2.0=20250309-181903 by Ferari3000=45 0A 6A B9 74 58 D8 A4=ExtraInfo=
-70 11692 H 7198=FTA=Basketball=KAZ-002=4.2.0=20250201-095000 by Ratzvan==Russia VTB United League, Astana - MBA Moscow=
-1005 3924 H 7119=FTA=Basketball=TAS BU=4.2.0=20250205-114609 by Albahraniy==ExtraInfo=
-100 11318 H 5000=FTA=Basketball=ITA 866 HD B=4.2.0=20250209-191952 by omid1348==ExtraInfo=
-1005 3933 H 7119=FTA=Basketball=TAS BU=4.2.0=20250212-114416 by Albahraniy==ExtraInfo=
-1005 3925 H 7119=FTA=Basketball=TXout-1 RXout-9 (-)=4.2.0=20250212-114619 by Albahraniy==ExtraInfo=
-0 12714 H 7200=FTA=Basketball=Unknown=4.2.0=20250212-181054 by yun==ExtraInfo=
--10 12534 V 4799=FTA=Basketball=B 191 DGI=4.2.0=20250214-144122 by Ratzvan==Romanian Cup, Voluntari - CSM Targu Mures=
-70 11097 H 7200=FTA=Basketball=Fi13_GNVE=4.2.0=20250214-232038 by Jacop==ExtraInfo=
-160 10985 V 9600=FTA=Basketball=POL49 EN1 Katowice=4.2.0=20250221-173704 by krzyś1==Men's Basketball: European Championship Qualifiers - Match: Poland - Lithuania=
-70 11571 V 4800=FTA=Basketball=@ E359 FEED 1 (overon)=4.2.0=20250227-163243 by klickklack==ExtraInfo=
--80 12554 V 4666=FTA=Basketball=F457_DSNG_GRE_COD1=4.2.0=20250227-175137 by AhmedCeNa==ExtraInfo=
-390 10966 V 7200=FTA=Basketball=Main=4.2.0=20250302-124350 by kahub==Athinaikos - Panathinaikos ( League A1)=
-20 12582 V 7200=FTA=Basketball=E-266 8MM Via1=4.2.0=20250302-183105 by Ferari3000==ExtraInfo=
-70 11153 V 7198=FTA=Basketball=Unknown=4.2.0=20250302-183342 by Robertooo==ExtraInfo=
-70 11180 V 7200=FTA=Basketball=KAZ-002=4.2.0=20250304-144642 by AhmedCeNa==ExtraInfo=
-70 11523 V 7200=FTA=Basketball=Service 01=4.2.0=20250308-084628 by Jacop==ExtraInfo=
-70 12726 V 7118=BISS=UFC/MMA Feeds=EDM HD ENC-1=4.2.0=20250307-113431 by Ratzvan=A1 B4 C2 17 D5 E3 F6 AE=ONE Championship: ONE Fight Night 29=
-1005 4105 H 7500=BISS=UFC/MMA Feeds=Unknown=4.2.0=20250307-121551 by HBO=EE 1A B2 BA B9 E5 C0 5E=ONE Championship: ONE Fight Night 29=
-1005 4115 H 7500=BISS=UFC/MMA Feeds=Unknown=4.2.0=20250307-121551 by HBO=EE 1A B2 BA B9 E5 C0 5E=ONE Championship: ONE Fight Night 29=
-1005 4125 H 7500=BISS=UFC/MMA Feeds=Unknown=4.2.0=20250307-121551 by HBO=EE 1A B2 BA B9 E5 C0 5E=ONE Championship: ONE Fight Night 29=
--930 4005 H 7200=BISS=UFC/MMA Feeds=UFC Path A PRI=4.2.0=20250307-195345 by SuannS=84 A6 59 83 68 52 E5 9F=ExtraInfo=
--930 4005 H 7200=BISS=UFC/MMA Feeds=UFC Path A PRI=4.2.0=20250307-202013 by SuannS=84 A6 59 83 68 52 E5 9F=ExtraInfo=
--870 12125 H 7200=BISS=UFC/MMA Feeds=UFC Path A PRI=4.2.0=20250307-202013 by SuannS=84 A6 59 83 68 52 E5 9F=ExtraInfo=
-1005 3933 H 7200=BISS=UFC/MMA Feeds=POWER SLAP: Clean Feed=4.2.0=20250307-205005 by Albahraniy=A3 32 CA 9F 78 A2 B5 CF=ExtraInfo=
-70 12703 V 7200=BISS=UFC/MMA Feeds=POWER SLAP Clean Feed=4.2.0=20250307-232633 by Akrem=A3 32 CA 9F 78 A2 B5 CF=ExtraInfo=
-1005 3924 H 7119=BISS=UFC/MMA Feeds=TLCAT 002 ONE Main=4.2.0=20250308-002214 by Albahraniy=A1 B4 C2 17 D5 E3 F6 AE=ExtraInfo=
-1005 3915 H 7119=BISS=UFC/MMA Feeds=TLCAT 002 ONE Main=4.2.0=20250308-002214 by Albahraniy=A1 B4 C2 17 D5 E3 F6 AE=ExtraInfo=
-1005 3866 H 7119=BISS=UFC/MMA Feeds=EDM HD ENC-1=4.2.0=20250308-002822 by Albahraniy=A1 B4 C2 17 D5 E3 F6 AE=ExtraInfo=
-1005 3875 H 7119=BISS=UFC/MMA Feeds=EDM HD ENC-1=4.2.0=20250308-002822 by Albahraniy=A1 B4 C2 17 D5 E3 F6 AE=ExtraInfo=
-1005 3884 H 7119=BISS=UFC/MMA Feeds=EDM HD ENC-1=4.2.0=20250308-002822 by Albahraniy=A1 B4 C2 17 D5 E3 F6 AE=ExtraInfo=
-70 12686 V 7200=BISS=UFC/MMA Feeds=@ POWER SLAP PATH A PRI (PSSI GLOBAL SERVICES)=4.2.0=20250308-010006 by klickklack=A3 32 CA 9F 78 A2 B5 CF=ExtraInfo=
-1005 3924 H 7119=BISS=UFC/MMA Feeds=TLCAT 002 ONE Main=4.2.0=20250308-024950 by ozielgoiano=A1 B4 C2 17 D5 E3 F6 AE=ExtraInfo=
--550 4121 V 7120=BISS=UFC/MMA Feeds=TLCAT 002 ONE Main=4.2.0=20250308-024950 by ozielgoiano=A1 B4 C2 17 D5 E3 F6 AE=ExtraInfo=
-1005 3933 H 7200=BISS=UFC/MMA Feeds=POWER SLAP: Clean Feed=4.2.0=20250308-032621 by SatEze=A3 32 CA 9F 78 A2 B5 CF=ExtraInfo=
-1005 4033 H 7200=BISS=UFC/MMA Feeds=POWER SLAP: Clean Feed=4.2.0=20250308-032621 by SatEze=A3 32 CA 9F 78 A2 B5 CF=ExtraInfo=
-1005 4105 H 7200=BISS=UFC/MMA Feeds=Unknown=4.2.2=20250308-154508 by HBO==ExtraInfo=
-160 11106 H 7200=BISS=UFC/MMA Feeds=POL-100 Main FEED 9MHZ=4.2.0=20250308-171715 by Jacop=BE EF 20 CD 25 FE ED 10=ExtraInfo=
--870 12125 H 7200=BISS=UFC/MMA Feeds=UFC PATH B PRI=4.2.0=20250308-205404 by SuannS=84 A6 59 83 68 52 E5 9F=ExtraInfo=
--930 4015 H 7200=BISS=UFC/MMA Feeds=UFC PATH B PRI=4.2.0=20250308-205404 by SuannS=84 A6 59 83 68 52 E5 9F=ExtraInfo=
--930 4005 H 7200=BISS=UFC/MMA Feeds=UFC PATH B PRI=4.2.0=20250308-205404 by SuannS=84 A6 59 83 68 52 E5 9F=ExtraInfo=
-70 12735 V 7200=BISS=UFC/MMA Feeds=ENC7=4.2.0=20250308-211422 by Jacop=84 A6 59 83 68 52 E5 9F=ExtraInfo=
-70 11043 V 7200=BISS=UFC/MMA Feeds=WSHT ENC 53=4.2.0=20250308-212530 by Jacop=84 A6 59 83 68 52 E5 9F=ExtraInfo=
--220 11536 H 7200=BISS=UFC/MMA Feeds=WSHT ENC 53=4.2.0=20250308-212530 by Jacop=84 A6 59 83 68 52 E5 9F=ExtraInfo=
-70 12686 V 7200=BISS=UFC/MMA Feeds=Unknown=4.2.0=20250308-225504 by t51w=84 A6 59 83 68 52 E5 9F=ExtraInfo=
-520 3860 V 30000=BISS=UFC/MMA Feeds=IMG Aais=4.2.0=20250308-233113 by Albahraniy=84 A6 59 83 68 52 E5 9F=ExtraInfo=
-70 12706 V 7200=BISS=UFC/MMA Feeds=PSSI UFC 313=4.2.0=20250308-235434 by Albahraniy=84 A6 59 83 68 52 E5 9F=ExtraInfo=
-70 12706 V 7200=BISS=UFC/MMA Feeds=PSSI UFC 313=4.2.0=20250309-023525 by klickklack==ExtraInfo=
-31 10969 H 7500=BISS=French Football=FRBEIN_ENC_02=4.2.0=20250225-173547 by Dani Sat=CD F2 04 C3 EA 20 25 2F=ExtraInfo=
-31 10978 H 7500=BISS=French Football=F489 INTER=4.2.0=20250225-180629 by Dani Sat=CD F2 04 C3 EA 20 25 2F=ExtraInfo=
-31 10987 H 7500=BISS=French Football=F489 INTER=4.2.0=20250225-180629 by Dani Sat=CD F2 04 C3 EA 20 25 2F=ExtraInfo=
-70 11499 V 6666=BISS=French Football=F419_DIRTY_MAIN=4.2.0=20250225-181836 by Dani Sat=CD F1 04 C2 EA 20 25 2F=ExtraInfo=
-70 11507 V 6666=BISS=French Football=F419_DIRTY_MAIN=4.2.0=20250225-181836 by Dani Sat=CD F1 04 C2 EA 20 25 2F=ExtraInfo=
-70 11515 V 6666=BISS=French Football=F419_DIRTY_MAIN=4.2.0=20250225-181836 by Dani Sat=CD F1 04 C2 EA 20 25 2F=ExtraInfo=
-70 10986 V 7200=BISS=French Football=@ GVA_Fi01 (EUROVISION SA)=4.2.0=20250226-152100 by klickklack=90 AA 2E 68 CE F2 EE AE=ExtraInfo=
-70 11499 V 6666=BISS=French Football=@ F419_DIRTY_MAIN (SAT PROD)=4.2.0=20250226-155634 by klickklack=CD F3 04 C4 EA 20 25 2F=ExtraInfo=
-70 11499 V 6666=BISS=French Football=@ F419_DIRTY_MAIN (SAT PROD)=4.2.0=20250226-160255 by klickklack=CD F3 04 C4 EA 20 25 2F=ExtraInfo=
-70 11506 V 6666=BISS=French Football=@ F419_DIRTY_MAIN (SAT PROD)=4.2.0=20250226-160255 by klickklack=CD F3 04 C4 EA 20 25 2F=ExtraInfo=
-1005 3905 H 7200=BISS=French Football=Unknown=4.2.0=20250226-191047 by HBO=AB CD 26 9E 02 DC BA 98=ExtraInfo=
-1005 3905 H 7200=BISS=French Football=Unknown=4.2.0=20250226-191239 by Espinosa=AB CD 26 9E 02 DC BA 98=ExtraInfo=
-70 11145 V 7200=BISS=French Football=Unknown=4.2.0=20250226-191239 by Espinosa=AB CD 26 9E 02 DC BA 98=ExtraInfo=
--80 12517 V 7200=BISS=French Football=PCO 10=4.2.0=20250301-140310 by AhmedCeNa=01 03 F5 F9 04 20 25 49=ExtraInfo=
-70 10997 V 9875=BISS=French Football=Fi10_GNVE=4.2.0=20250301-171101 by Dani Sat=A2 DF 0C 8D 34 A0 E1 B5=ExtraInfo=
-1005 3860 V 30000=BISS=French Football=Unknown=4.2.0=20250306-071848 by Forsat==ExtraInfo=
-70 11162 H 7200=BISS=French Football=PCO 10=4.2.0=20250307-141531 by AhmedCeNa=07 03 F5 FF 03 39 71 AD=ExtraInfo=
-70 11498 V 6666=BISS=French Football=F489 INTER M=4.2.0=20250308-120650 by Jacop==ExtraInfo=
-70 11506 V 6666=BISS=French Football=F489 INTER M=4.2.0=20250308-120650 by Jacop==ExtraInfo=
-70 11068 V 9875=BISS=French Football=Fi17_GNVE=4.2.0=20250308-133212 by Jacop=87 8F 75 8B 84 67 08 F3=ExtraInfo=
-70 11070 H 9875=BISS=French Football=Unknown=4.2.0=20250308-153114 by Abo Saeid Satellite=A5 BD 88 EA 83 40 2E F1=ExtraInfo=
-70 11105 H 9875=BISS=French Football=Fi17_GNVE=4.2.0=20250308-171022 by Dani Sat=A5 BD 88 EA 83 40 2E F1=ExtraInfo=
-130 12583 V 7198=BISS=Italian Football=Service_MENA_01=4.2.2=20250303-191627 by Ratzvan=85 79 11 0F 25 B6 26 01=Serie A, Juventus v Hellas Verona=
-130 12583 V 7200=BISS=Italian Football=Service_MENA_01=4.2.2=20250307-191734 by Verdeoro=D5 FA FA C9 07 92 EC 85=ExtraInfo=
-130 12596 V 14400=BISS=Italian Football=Service_MENA_01=4.2.2=20250308-133415 by fusillo=C7 D6 AF 4C 6B B9 F3 17=ExtraInfo=
-130 12597 V 14400=BISS=Italian Football=Service_MENA_02=4.2.2=20250308-133559 by Verdeoro=EC 3D 06 2F BE F9 5A 11=ExtraInfo=
-130 12583 V 7200=BISS=Italian Football=Service_MENA_03=4.2.2=20250308-163022 by Verdeoro=20 9F 98 57 35 7F 5F 13=ExtraInfo=
-130 12593 V 7200=BISS=Italian Football=Service_MENA_04=4.2.2=20250308-192228 by Verdeoro=D6 04 8A 64 9F C1 8C EC=ExtraInfo=
-130 12583 V 7200=BISS=Italian Football=Service_MENA_01=4.2.2=20250309-110350 by Verdeoro=29 1F DF 27 D7 FA 8C 5D=ExtraInfo=
-160 11126 H 5000=BISS=Italian Football=@ ITA 498 B (*unnamed-1*)=4.2.0=20250309-120937 by klickklack=D6 75 3C 87 88 A1 B4 DD=ExtraInfo=
-130 12593 V 7200=BISS=Italian Football=Service_MENA_02=4.2.2=20250309-133454 by Verdeoro=C6 33 8C 85 11 6E FC 7B=ExtraInfo=
-130 12583 V 7200=BISS=Italian Football=Service_MENA_03=4.2.2=20250309-163010 by Verdeoro=B0 97 4E 95 C1 38 F4 ED=ExtraInfo=
-130 12592 V 7200=BISS=Italian Football=Service_MENA_04=4.2.2=20250309-191744 by fusillo=59 E9 4A 8C 1D B2 10 DF=ExtraInfo=
+70 12594 V 9597=BISS=Volleyball=POLSAT=4.2.0=20250311-150755 by Ratzvan=20 25 AB F0 CD 11 03 E1=CEV Cup, Rzeszow - Tours=
+70 11136 H 7199=BISS=Volleyball=ITA 631 M=4.2.0=20250311-152343 by Ratzvan=D9 CC 2C D1 3F 37 7A F0=Champions League - Play Offs, Luneburg - Zawiercie=
+70 11127 H 7199=BISS=Volleyball=ITA671 A=4.2.0=20250311-170448 by Ratzvan=9B FC CB 62 8F 87 23 39=Champions League - Play Offs, Monza - Perugia=
+70 11608 H 7500=BISS=Volleyball=TUR-156 Main=4.2.2=20250312-151818 by Jacop==ExtraInfo=
+70 12703 V 7200=BISS=Volleyball=TUR 121-A=4.2.2=20250312-152418 by Jacop=4E 5B 29 D2 6D D4 6A AB=ExtraInfo=
+70 11135 H 7200=BISS=Volleyball=ITA 556 HD16-MAIN=4.2.0=20250312-164954 by Jacop=9B FC CB 62 8F 87 23 39=ExtraInfo=
+160 12550 V 9700=BISS=Volleyball=OTE 1=4.2.0=20250312-193027 by Jacop=AC 12 21 DF DF AA 11 9A=Champions League=
+70 12640 V 7200=BISS=Volleyball=CEV=4.2.0=20250312-195644 by Jacop=B0 1B 3D 08 70 BD E6 13=ExtraInfo=
+70 11608 H 7500=BISS=Volleyball=@ TUR-156 Main (HDPROTEK)=4.2.2=20250313-143330 by klickklack=BE 1B 25 FE AC CF 12 8D=International=
+420 11470 V 6800=BISS=Volleyball=@ TUR-147A (*unnamed-1*)=4.2.2=20250315-105611 by klickklack=22 38 00 5A 00 22 38 5A=ExtraInfo=
+70 11014 H 7200=BISS=Volleyball=VOLLEY_RAI_FEED=4.2.0=20250316-142729 by Icone=82 76 6B 63 87 64 B0 9B=ExtraInfo=
+70 11023 H 7200=BISS=Volleyball=VOLLEY_RAI_FEED=4.2.0=20250316-142729 by Icone=82 76 6B 63 87 64 B0 9B=ExtraInfo=
+70 11097 V 7200=BISS=Volleyball=VBW A=4.2.0=20250316-164120 by Icone=6C 96 FF 01 E1 E5 80 46=ExtraInfo=
+70 11106 V 7200=BISS=Volleyball=VBW A=4.2.0=20250316-164120 by Icone=6C 96 FF 01 E1 E5 80 46=ExtraInfo=
+70 12594 V 9600=BISS=Volleyball=POLSAT=4.2.0=20250317-183628 by Icone=52 71 41 04 27 88 57 06=ExtraInfo=
+70 12606 V 9597=BISS=Volleyball=POLSAT=4.2.0=20250318-155400 by Ratzvan=20 25 AB F0 CD 1E CA B5=Champions League - Play Offs, Zawiercie - Luneburg=
+70 10960 V 9875=BISS=French Football=Fi12_GNVE=4.2.0=20250315-180945 by Icone=DC 05 C4 A5 AE D2 AB 2B=ExtraInfo=
+70 10961 V 9875=BISS=French Football=Fi09_GNVE=4.2.0=20250316-162050 by Icone=48 79 3D FE CD 91 44 A2=ExtraInfo=
+31 10978 H 7500=BISS=French Football=F615 M1 B1 MAIN=4.2.0=20250316-162420 by AhmedCeNa=BE 12 DC AC 16 E1 3A 31=ExtraInfo=
+70 12726 V 7118=BISS=UFC/MMA Feeds=EDM HD ENC-1=4.2.0=20250314-111601 by Ratzvan=A1 B4 C2 17 D5 E3 F6 AE=ONE Championship: ONE Friday Fights 100=
+1005 4115 H 7500=BISS=UFC/MMA Feeds=DSNG-1 NT=4.2.0=20250314-115321 by Albahraniy=EE 2C B2 CC CB E5 E8 98=ExtraInfo=
+1005 4105 H 7500=BISS=UFC/MMA Feeds=DSNG-1 NT=4.2.0=20250314-115321 by Albahraniy=EE 2C B2 CC CB E5 E8 98=ExtraInfo=
+1005 3995 H 7500=BISS=UFC/MMA Feeds=DSNG-1 NT=4.2.0=20250314-115321 by Albahraniy=EE 2C B2 CC CB E5 E8 98=ExtraInfo=
+70 12594 V 9600=BISS=UFC/MMA Feeds=POL103 (POLSAT)=4.2.2=20250314-175455 by krzyś1=52 71 41 04 27 88 57 06=Combat sports: Babilon MMA 51 in Ciechanow - heavyweight: Szymon Kołecki - Przemysław Mysiala=
+70 11105 H 7200=BISS=UFC/MMA Feeds=@ Cage warriors (NEP Connect)=4.2.0=20250314-180244 by klickklack=B4 54 BC C4 A1 1C 23 E0=CW 184: UNPLUGGED=
+1005 4155 V 7200=BISS=UFC/MMA Feeds=Unknown=4.2.0=20250314-180721 by HBO=B4 54 BC C4 A1 1C 23 E0=ExtraInfo=
+-930 4005 H 7200=BISS=UFC/MMA Feeds=UFC PATH A BU=4.2.0=20250314-185707 by SuannS=77 AC CA ED 43 61 C3 67=ExtraInfo=
+1005 4105 H 7200=BISS=UFC/MMA Feeds=Unknown=4.2.0=20250315-160043 by HBO=B4 54 BC C4 A1 1C 23 E0=ExtraInfo=
+70 11070 V 7200=BISS=UFC/MMA Feeds=Cage warriors=4.2.0=20250315-160824 by Albahraniy=B4 54 BC C4 A1 1C 23 E0=ExtraInfo=
+70 10960 H 7200=BISS=UFC/MMA Feeds=WSHT ENC53=4.2.0=20250315-171507 by Icone=77 AC CA ED 43 61 C3 67=ExtraInfo=
+1005 3860 V 30000=BISS=UFC/MMA Feeds=Unknown=4.2.0=20250315-185409 by HBO==ExtraInfo=
+70 11011 V 7200=BISS=UFC/MMA Feeds=IMG A EU=4.2.0=20250315-190807 by AhmedCeNa=77 AC CA ED 43 61 C3 67=ExtraInfo=
+-220 11536 H 7200=BISS=UFC/MMA Feeds=UFC PPV PATH C=4.2.0=20250315-195839 by Jacop=77 AC CA ED 43 61 C3 67=ExtraInfo=
+130 12592 V 7198=BISS=Italian Football=Service_MENA_02=4.2.2=20250316-133233 by Ratzvan=19 DA C8 BB B8 3D 78 6D=Serie A, Bologna - Lazio=
+70 12525 V 7500=BISS=Italian Football=ITA349 Milano=4.2.2=20250316-141911 by Ferari3000=AA 98 22 64 CA 77 01 42=ExtraInfo=
+130 12602 V 7198=BISS=Italian Football=Service_MENA_03=4.2.2=20250316-143801 by Ratzvan=BB 61 4D 69 4C 59 A3 48=Serie A, AS Roma - Cagliari=
+130 12583 V 7198=BISS=Italian Football=Service_MENA_04=4.2.2=20250316-162948 by Ratzvan=AE 41 26 15 63 27 1F A9=Serie A, Fiorentina - Juventus=
+130 12592 V 7198=BISS=Italian Football=Service_MENA_05=4.2.2=20250316-191641 by Ratzvan=CC 8D 30 89 A4 CC 9E 0E=Serie A, Atalanta - Inter=
+160 11126 H 5000=BISS=Italian Football=ITA39 [A]=4.2.0=20250317-191325 by Gevs999=58 E8 FC 3C 6C 97 00 03=ExtraInfo=
 -80 12517 V 7200=BISS=Rugby Feeds=@ PRINCIPAL C+ BEZ/NEV (*unnamed-1*)=4.2.0=20250307-175641 by klickklack=F5 78 73 E0 9F EE D1 5E=ExtraInfo=
 -80 12526 V 7200=BISS=Rugby Feeds=@ F509 J23 BRIVE (F509)=4.2.0=20250307-180452 by klickklack=F5 09 73 71 9F EE D1 5E=ExtraInfo=
 70 12727 V 7120=BISS=Rugby Feeds=6 Nations U20 ENG v ITA=4.2.0=20250307-195655 by archiesat=5A 9E 11 09 22 07 03 2C=ExtraInfo=
@@ -213,26 +227,32 @@
 100 11283 V 14240=BISS=Rugby Feeds=Pitch England v Italy Unbranded=4.2.0=20250309-132458 by AhmedCeNa=EE 11 B1 B0 7B 87 F1 F3=ExtraInfo=
 100 11283 V 14240=BISS=Rugby Feeds=Pitch England v Italy Unbranded=4.2.0=20250309-132637 by AhmedCeNa==ExtraInfo=
 70 11602 V 14240=BISS=Rugby Feeds=Pitch England v Italy Unbranded=4.2.0=20250309-132637 by AhmedCeNa==ExtraInfo=
-70 11160 V 7200=BISS=Handball Feeds=E-94 main=4.2.0=20250304-204403 by Albahraniy=FF DF D0 AE 30 4E 05 83=ExtraInfo=
-70 11136 V 7200=BISS=Handball Feeds=@ ITA 403 EHF LUZERN (Service Provider)=4.2.0=20250304-222535 by klickklack=FF CE D0 9D 30 4E 05 83=ExtraInfo=
-70 11171 H 7198=BISS=Handball Feeds=D-312=4.2.0=20250305-150533 by Ratzvan=E9 3F FC 24 FD 03 05 05=Champions League, SC Magdeburg - Szeged=
-70 11180 H 7198=BISS=Handball Feeds=MediaLink CRO025/1=4.2.0=20250305-152147 by Ratzvan=E9 3F FA 22 BD 03 05 C5=Champions League, RK Zagreb - Kielce=
-70 11153 H 7198=BISS=Handball Feeds=E 340 Main=4.2.0=20250305-152826 by Ratzvan=E9 3F FF 27 FD 03 05 05=Champions League, Barcelona - Kolstad=
-70 11162 H 7198=BISS=Handball Feeds=EHF NANTES=4.2.0=20250305-172449 by Ratzvan=E9 3F FA 22 ED 03 05 F5=Champions League, Nantes - Aalborg=
-70 11163 H 7198=BISS=Handball Feeds=EHF=4.2.0=20250306-151753 by Ratzvan=D0 30 6E 6E 93 FF DD 6F=Champions League, Veszprem - Fuchse Berlin=
-70 11172 H 7199=BISS=Handball Feeds=DNK37 ENC2=4.2.0=20250306-171449 by Ratzvan=FF DE D0 AD 22 3E 94 F4=Champions League, Fredericia - Din. Bucuresti=
-70 11145 H 7199=BISS=Handball Feeds=YSM-016 MAIN=4.2.0=20250306-171932 by Ratzvan=D0 30 6E 6E 93 FF DA 6C=Champions League, Eurofarm Pelister - PSG=
-70 11154 H 7199=BISS=Handball Feeds=POL-098_PATH-3=4.2.0=20250306-172240 by Ratzvan=D0 30 6E 6E 93 FF BD 4F=Champions League, Wisla Plock - Sporting=
-70 12726 V 7198=BISS=Handball Feeds=ENC-201=4.2.0=20250306-172739 by Ratzvan=06 03 DC E5 BA 20 25 FF=German Bundesliga, Lemgo - Erlangen=
-30 10978 H 7500=BISS=Handball Feeds=F419_inter=4.2.0=20250308-160617 by Jacop=A1 5B D2 CE 6C B3 5E 7D=ExtraInfo=
-30 10978 H 7500=BISS=Handball Feeds=F419_inter=4.2.0=20250308-161253 by Jacop=A1 5B D2 CE 6C B3 5E 7D=ExtraInfo=
-70 11497 V 6666=BISS=Handball Feeds=F509 LNH Ivry MAIN=4.2.0=20250308-181846 by Albahraniy=DE AC 44 CE 78 BF 34 6B=ExtraInfo=
-70 12703 V 7200=BISS=Handball Feeds=ENC-101=4.2.0=20250308-190320 by Albahraniy=08 03 DC E7 BA 20 25 FF=Bundesliga=
-70 11499 V 6666=BISS=Handball Feeds=F509 LNH PSG MAIN=4.2.0=20250309-153825 by Jacop=DE AC 44 CE 78 BF 36 6D=ExtraInfo=
-765 3852 H 9874=BISS=Winter Sports=Unknown=4.2.0=20250309-095548 by Forsat=D0 30 9E 9E 81 FA 91 0C=ExtraInfo=
-192 11429 V 9873=BISS=Winter Sports=NOR-044 FEED A=4.2.0=20250309-095846 by Verdeoro=D0 30 9E 9E 64 FA CD 2B=Cross-Country World Championships - Women's 50km Mass Start Free - Trondheim, NOR=
-48 12632 H 9875=BISS=Winter Sports=SWE-043 Are Dirty=4.2.0=20250309-121419 by Ferari3000=D0 30 9E 9E 90 FA 93 1D=ExtraInfo=
-48 12644 H 9875=BISS=Winter Sports=SWE-043 Are Clean=4.2.0=20250309-121555 by Ferari3000=D0 30 9E 9E 90 FB 93 1E=ExtraInfo=
+70 11459 V 7120=BISS=Rugby Feeds=F419 inter=4.2.0=20250314-195044 by Jacop==ExtraInfo=
+70 12682 V 14240=BISS=Rugby Feeds=Italy v Ireland Branded=4.2.0=20250315-144252 by Icone=70 50 BB 7B 43 32 43 B8=ExtraInfo=
+70 12682 V 14240=BISS=Rugby Feeds=Italy v Ireland Branded=4.2.0=20250315-145755 by net5ua=70 50 BB 7B 43 32 43 B8=ExtraInfo=
+70 12698 V 14240=BISS=Rugby Feeds=Italy v Ireland Branded=4.2.0=20250315-145755 by net5ua=70 50 BB 7B 43 32 43 B8=ExtraInfo=
+-220 12545 H 7200=BISS=Rugby Feeds=empty=4.2.0=20250315-155740 by Tomek22=7F ED DD 49 D3 5C 8B BA=ExtraInfo=
+100 11282 V 14240=BISS=Rugby Feeds=6Nations- WAL v ENG=4.2.0=20250315-160335 by Jacop==ExtraInfo=
+70 11602 V 14240=BISS=Rugby Feeds=6 Nations - WAL v ENG Brand=4.2.0=20250315-170839 by Icone==ExtraInfo=
+70 11184 V 14240=BISS=Rugby Feeds=6 Nations France V Scotland=4.2.0=20250315-182205 by Icone=43 77 21 DB 4D 32 5A D9=ExtraInfo=
+70 11184 V 14240=BISS=Rugby Feeds=6 Nations France V Scotland=4.2.0=20250315-192555 by net5ua=43 77 21 DB 4D 32 5A D9=ExtraInfo=
+70 12643 V 14240=BISS=Rugby Feeds=6 Nations France V Scotland=4.2.0=20250315-192555 by net5ua=43 77 21 DB 4D 32 5A D9=ExtraInfo=
+70 11180 H 7200=BISS=Handball Feeds=Vicas 01=4.2.0=20250316-184616 by Icone=82 AD E6 15 32 3F AD 1E=ExtraInfo=
+1005 4115 H 22500=BISS=Handball Feeds=Unknown=4.2.2=20250318-094316 by Forsat==ExtraInfo=
+160 12651 H 8888=BISS=Handball Feeds=POL 058_T1=4.2.0=20250318-200315 by Jacop=60 24 33 B7 28 62 38 C2=ExtraInfo=
+70 11091 H 9875=BISS=FIFA International=LEUK_FI02=4.2.0=20241218-131104 by Saint Hubert=55 B6 FB 06 DC 30 06 12=ExtraInfo=
+70 11513 V 6666=BISS=FIFA International=QAT-36-WDL-WF=4.2.0=20241218-151047 by Saint Hubert=2C D4 92 92 AB 3C EE D5=ExtraInfo=
+70 11091 H 9874=BISS=FIFA International=LEUK_Fi02 reported New ID: QAT037 M1 MRC002 Main=4.2.0=20241218-151729 by FaDeL®=0E 49 08 5F 68 CA 4E 80=ExtraInfo=
+31 10978 H 7500=BISS=FIFA International=QAT_030_2=4.2.0=20241218-161744 by Jacop=2C D4 92 92 AB 3C EE D5=ExtraInfo=
+260 11668 V 7500=BISS=FIFA International=Qat037 M=4.2.0=20250214-152623 by AhmedCeNa=A1 B2 3C 8F 4D 20 25 92=ExtraInfo=
+20 12566 H 7198=BISS=FIFA International=VIA-1 E-0547=4.2.0=20250219-174128 by Ratzvan=16 07 4D 6A 06 7F ED 72=Friendly Women, Canada - China=
+210 11581 H 5000=BISS=FIFA International=Unknown=4.2.0=20250221-164944 by samirbelg2711=21 02 FE 20 ED 20 25 32=ExtraInfo=
+210 11581 H 5000=BISS=FIFA International=Unknown=4.2.0=20250225-194334 by samirbelg2711=25 02 FE 24 ED 20 25 32=ExtraInfo=
+70 11055 V 30000=BISS=FIFA International=VM6GVs1 CAF 01=4.2.0=20250318-114647 by Jacop=D1 57 22 4A CF 5A 7E A7=ExtraInfo=
+70 11092 H 30000=BISS=FIFA International=8GVs1 CAF 05=4.2.0=20250318-121610 by yun=C6 95 E2 3D EE 90 03 81=ExtraInfo=
+70 11107 V 7199=BISS=FIFA International=MRC008-Main=4.2.0=20250318-160125 by Ratzvan=A5 DE B1 34 C3 7A 51 8E=AFRICA: World Championship - Qualification, Central Africa - Madagascar (TOMORROW)=
+70 11055 V 30000=BISS=FIFA International=VM6GVs1 CAF 01=4.2.0=20250318-160152 by yun=D1 57 22 4A CF 5A 7E A7=ExtraInfo=
+70 12685 H 7198=BISS=FIFA International=E-95 MAIN=4.2.0=20250318-161849 by Ratzvan=F8 73 31 9C 16 5F F7 6C=AFRICA: World Championship - Qualification - (IT SHOULD BE A MATCH OF 20/3 : Cape Verde - Mauritius ??)=
 305 11156 V 7500=BISS=Saudi Football=ARA FES 3 ENC1=4.2.0=20250306-193530 by AhmedCeNa=21 F9 D2 EC C3 D5 02 9A=Pro League=
 70 12735 V 7200=BISS=Saudi Football=ENC 1=4.2.0=20250307-171530 by barney115=99 88 85 A6 75 21 45 EA=ExtraInfo=
 305 11182 V 9875=BISS=Saudi Football=UAE060B=4.2.0=20250307-171750 by AhmedCeNa=9F 54 22 15 85 4D CF A1=Pro League=
@@ -243,14 +263,32 @@
 70 3913 V 7200=BISS=Saudi Football=ENC 1=4.2.0=20250307-173215 by HBO=99 88 85 A6 75 21 45 EA=ExtraInfo=
 305 11156 V 7500=BISS=Saudi Football=ARA FES 3 ENC1=4.2.0=20250307-194730 by AhmedCeNa=9F 54 22 15 85 4D CF A1=Pro League=
 -550 4149 H 7200=BISS=Saudi Football=Unknown=4.2.0=20250307-195204 by ozielgoiano=91 B7 F7 3F F6 D9 BB 8A=ExtraInfo=
-70 11091 H 9875=BISS=FIFA International=LEUK_FI02=4.2.0=20241218-131104 by Saint Hubert=55 B6 FB 06 DC 30 06 12=ExtraInfo=
-70 11513 V 6666=BISS=FIFA International=QAT-36-WDL-WF=4.2.0=20241218-151047 by Saint Hubert=2C D4 92 92 AB 3C EE D5=ExtraInfo=
-70 11091 H 9874=BISS=FIFA International=LEUK_Fi02 reported New ID: QAT037 M1 MRC002 Main=4.2.0=20241218-151729 by FaDeL®=0E 49 08 5F 68 CA 4E 80=ExtraInfo=
-31 10978 H 7500=BISS=FIFA International=QAT_030_2=4.2.0=20241218-161744 by Jacop=2C D4 92 92 AB 3C EE D5=ExtraInfo=
-260 11668 V 7500=BISS=FIFA International=Qat037 M=4.2.0=20250214-152623 by AhmedCeNa=A1 B2 3C 8F 4D 20 25 92=ExtraInfo=
-20 12566 H 7198=BISS=FIFA International=VIA-1 E-0547=4.2.0=20250219-174128 by Ratzvan=16 07 4D 6A 06 7F ED 72=Friendly Women, Canada - China=
-210 11581 H 5000=BISS=FIFA International=Unknown=4.2.0=20250221-164944 by samirbelg2711=21 02 FE 20 ED 20 25 32=ExtraInfo=
-210 11581 H 5000=BISS=FIFA International=Unknown=4.2.0=20250225-194334 by samirbelg2711=25 02 FE 24 ED 20 25 32=ExtraInfo=
+70 11522 V 7200=BISS=Saudi Football=@ *unnamed-1* (*unnamed-1*)=4.2.0=20250313-123549 by klickklack=8B BE 92 DB 69 F4 3D 9A=ExtraInfo=
+70 12593 V 9600=BISS=Saudi Football=@ POL 068 CH1 (Polsat)=4.2.0=20250313-140844 by klickklack=D7 C5 DB 77 F5 F6 67 52=ExtraInfo=
+70 12736 V 7200=BISS=Saudi Football=@ ENC 5 (SES)=4.2.0=20250313-155006 by klickklack=66 55 33 EE 21 25 25 6B=ExtraInfo=
+1005 3915 V 7200=BISS=Saudi Football=Unknown=4.2.0=20250313-180130 by HBO=66 55 33 EE 21 25 25 6B=ExtraInfo=
+70 12737 V 7198=BISS=Saudi Football=ENC 14=4.2.0=20250314-170131 by Ratzvan=88 77 54 53 54 22 11 87=Saudi Professional League, Al Nassr v Al Kholood=
+1005 3915 V 7200=BISS=Saudi Football=Unknown=4.2.0=20250314-170324 by HBO==ExtraInfo=
+210 10996 H 7500=BISS=Saudi Football=Service -1A=4.2.0=20250314-203327 by Akrem=DF 23 03 05 D6 92 C3 2B=ExtraInfo=
+1005 3915 V 7200=BISS=Saudi Football=Unknown=4.2.0=20250315-134100 by HBO=65 65 32 FC 01 87 85 0D=ExtraInfo=
+-550 4150 H 7200=BISS=Saudi Football=Unknown=4.2.0=20250315-181939 by ozielgoiano==ExtraInfo=
+765 3828 H 9874=BISS=Winter Sports=Unknown=4.2.0=20250315-131043 by Forsat==ExtraInfo=
+765 3852 H 9874=BISS=Winter Sports=Unknown=4.2.0=20250315-153830 by Forsat=D0 31 5E 5F 84 FF 14 97=ExtraInfo=
+50 11619 V 9873=BISS=Winter Sports=Snowboard Winterberg=4.2.2=20250315-162616 by Verdeoro==FIS Snowboard Alpine World Cup - Winterberg, GER=
+550 12683 H 7500=BISS=Winter Sports=RUS-062 main +79199986019=4.2.0=20250316-064200 by kantik=20 25 CD 12 AB 03 16 C4=Russian Cross-Country Skiing championships from Syktyvkar. Sprint=
+192 11429 V 9872=BISS=Winter Sports=NOR 044 DIRTY FEED=4.2.0=20250316-071622 by Ratzvan=FA 92 D0 5C 31 6E 81 20=FIS Ski World Cup - Slalom - Hafjell, NOR=
+192 11400 V 9872=BISS=Winter Sports=SWE-054 Dirty feed=4.2.0=20250316-072607 by Ratzvan=AB 77 D0 F2 31 6E 04 A3=FIS Nordic Combined World Cup - Individual Compact Large Hill... - Oslo, NOR=
+192 11620 V 9872=BISS=Winter Sports=Snowboard Winterberg=4.2.0=20250316-073024 by Ratzvan=FF FD D0 CC 31 6E 84 23=FIS Snowboard Alpine World Cup - Parallel Team - Winterberg, GER=
+192 11442 V 9872=BISS=Winter Sports=NOR 044 Clean Feed=4.2.0=20250316-080301 by Ratzvan=FB 92 D0 5D 31 6E 81 20=FIS Ski World Cup - Slalom - Hafjell, NOR=
+100 11413 V 9872=BISS=Winter Sports=SWE-054 Dirty feed=4.2.0=20250316-091007 by Ratzvan=FB 91 D0 5C 31 6E 03 A2=FIS Cross-Country World Cup - Interval Start Free - Oslo, Nor=
+765 3908 H 9874=BISS=Winter Sports=Unknown=4.2.0=20250316-100113 by Forsat=AB 77 D0 F2 31 6E 04 A3=ExtraInfo=
+765 3828 H 9874=BISS=Winter Sports=Unknown=4.2.0=20250316-100113 by Forsat=AB 77 D0 F2 31 6E 04 A3=ExtraInfo=
+765 3920 H 9874=BISS=Winter Sports=Unknown=4.2.0=20250316-100113 by Forsat=AB 77 D0 F2 31 6E 04 A3=ExtraInfo=
+192 11221 H 9874=BISS=Winter Sports=NOR-035 Main=4.2.0=20250316-135406 by Ratzvan=FF 92 D0 61 31 6E 99 38=FIS Ski Jumping World Cup - Flying Hill HS240 - Vikersund, NOR=
+192 11221 H 9872=BISS=Winter Sports=NOR-035 Main=4.2.0=20250316-135406 by Ratzvan=FF 92 D0 61 31 6E 99 38=FIS Ski Jumping World Cup - Flying Hill HS240 - Vikersund, NOR=
+192 11562 V 7200=BISS=Winter Sports=i390bk=4.2.0=20250316-150746 by AhmedCeNa=FA FC 3E 34 75 85 D9 D3=ExtraInfo=
+550 12683 H 7500=BISS=Winter Sports=RUS-062 main +79199986019=4.2.0=20250317-071808 by kantik=20 25 BC 01 AB 03 17 C5=Russian Cross-Country Skiing championships from Syktyvkar. Interval start 5/10 km, classic style=
+192 11561 V 7198=BISS=Winter Sports=i390bk=4.2.0=20250318-091142 by Ratzvan=70 5B B9 84 F1 EE 42 21=Freestyle World Championships - Moguls - Engadin, SUI=
 765 3840 H 9874=FTA=Winter Sports=Unknown=4.2.0=20250215-134234 by Forsat==ExtraInfo=
 -10 11509 V 6973=FTA=Winter Sports=Flavia7 1A=4.2.2=20250221-105341 by Ratzvan==FIS Ski World Cup - Men's Downhill Training - Crans Montana, SUI=
 70 11692 H 7200=FTA=Winter Sports=@ BormioWorld Cup - TEST (IKOMG)=4.2.0=20250221-162317 by klickklack==ExtraInfo=
@@ -260,17 +298,9 @@
 70 12726 V 7198=FTA=Winter Sports=ENC 4=4.2.0=20250303-172417 by Ratzvan==Skidskyttekampen Biathlon Relay Stockholm 2025=
 70 11172 V 7199=FTA=Winter Sports=F48/1/FWT=4.2.0=20250307-073600 by Ratzvan==Freeride World Tour - Fieberbrunn, Austria=
 192 11650 V 9600=FTA=Winter Sports=Enc1_ARD_Nove Mesto=4.2.2=20250307-174319 by Ferari3000==ExtraInfo=
-70 10985 V 9874=BISS=Cycling Feeds=SNG 07 - Chain A=4.2.0=20250222-082549 by Ratzvan=2F A8 29 00 5B 23 3D BB=UAE Tour 2025=
-70 10995 V 7200=BISS=Cycling Feeds=ADM SNG02 Chain A ser 01=4.2.0=20250223-061825 by Jacop=91 92 89 AC 87 41 63 2B=ExtraInfo=
-70 10985 V 9874=BISS=Cycling Feeds=SNG 07 - Chain A=4.2.0=20250223-092615 by barney115=35 C8 1B 18 6D 05 2E A0=UAE Tour 2025=
-70 12546 H 7200=BISS=Cycling Feeds=F512 VELO DROME main (IXI PROD 4)=4.2.0=20250301-131805 by tevesat=20 25 E2 27 1E 01 03 22=ExtraInfo=
-70 11144 H 7200=BISS=Cycling Feeds=@ Omloop Het Nieuwsblad Men Elite (BE-VRT)=4.2.0=20250301-162949 by klickklack=FF 92 D0 61 30 1E 16 64=ExtraInfo=
-70 11060 V 7200=BISS=Cycling Feeds=@ BEL 69 (RTBF)=4.2.0=20250304-121422 by klickklack=B1 76 16 3D D8 10 CF B7=ExtraInfo=
-70 11606 V 7200=BISS=Cycling Feeds=@ Crankworkx Rotorua - Downhill (IKOMG)=4.2.0=20250308-012926 by klickklack=A1 DE 10 8F 20 19 19 52=ExtraInfo=
-130 11612 V 9600=BISS=Cycling Feeds=HOL 270-1=4.2.0=20250308-104454 by Ratzvan=1B 8B 12 B8 A2 D5 A6 1D=STRADE BIANCHE 2025=
-130 11611 V 9597=BISS=Cycling Feeds=HOL 270-1=4.2.0=20250308-104454 by Ratzvan=1B 8B 12 B8 A2 D5 A6 1D=STRADE BIANCHE 2025=
-70 11523 V 7200=BISS=Cycling Feeds=CRANKWORX=4.2.0=20250309-023457 by AhmedCeNa=A1 DE 10 8F 20 19 19 52=ExtraInfo=
-70 11043 V 7200=BISS=Cycling Feeds=F656/OER/1/TEST=4.2.0=20250309-095312 by Akrem=38 C2 02 FC 98 40 51 29=ExtraInfo=
+192 11328 H 9875=FTA=Winter Sports=UKI-1484 Main=4.2.2=20250313-143746 by AhmedCeNa==ExtraInfo=
+20 12612 V 9873=FTA=Winter Sports=Snowboard Winterberg=4.2.0=20250316-084029 by Ratzvan==FIS Snowboard Alpine World Cup - Parallel Team - Winterberg, GER=
+-10 11483 V 9872=FTA=Winter Sports=SWE-018=4.2.2=20250316-100213 by Ratzvan==FIS Ski Jumping World Cup - Flying Hill HS240 - Vikersund, NOR=
 1005 3925 V 7200=BISS=Cricket Feeds=Unknown=4.2.0=20250220-004404 by HBO=DF C0 CF 6E 3C 83 DD 9C=ExtraInfo=
 1005 3926 V 7200=BISS=Cricket Feeds=ENC 1=4.2.0=20250220-185706 by Albahraniy=C4 71 80 B5 2D 62 D4 63=ExtraInfo=
 1005 3926 V 7200=BISS=Cricket Feeds=ENC 21=4.2.0=20250221-185243 by Albahraniy=75 66 2A 05 49 32 E2 5D=ExtraInfo=
@@ -284,22 +314,57 @@
 685 3904 V 9600=BISS=Cricket Feeds=Unknown=4.2.0=20250304-072816 by Forsat==ExtraInfo=
 1005 3927 V 7200=BISS=Cricket Feeds=Unknown=4.2.0=20250304-195727 by Albahraniy==ExtraInfo=
 1005 3990 H 10000=BISS=Cricket Feeds=Unknown=4.2.0=20250308-133248 by HBO==ExtraInfo=
-70 11515 V 6666=BISS=Asian Football=QAT_030_2 (JSSC)=4.2.0=20250304-143836 by Super Saiyan=80 02 78 FA 1E 30 3A 88=Champions League=
-70 11522 V 7200=BISS=Asian Football=DMI SNG 2=4.2.0=20250304-181549 by omid1348=20 25 A4 E9 DA 38 67 79=Champions League=
-1005 4164 V 7200=BISS=Asian Football=Fi01_JPNEXC=4.2.0=20250305-000841 by Albahraniy=15 96 2B D6 CC 00 ED B9=Champions League=
-70 10958 V 7200=BISS=Asian Football=Fi01_JPNEXC=4.2.0=20250305-000922 by Albahraniy=15 96 2B D6 CC 00 ED B9=Champions League=
-1005 4146 V 7200=BISS=Asian Football=Unknown=4.2.0=20250305-001440 by Albahraniy=F1 B8 65 0E 4D 5D C6 70=Champions League=
-70 11088 H 7200=BISS=Asian Football=Unknown=4.2.0=20250305-043220 by Albahraniy=F1 B8 65 0E 4D 5D C6 70=Champions League=
-70 11070 H 7198=BISS=Asian Football=ENC-1 main=4.2.0=20250305-075406 by Ratzvan=F8 15 83 90 AF 8C 2D 68=AFC Champions League , Shanghai Shenhua (Chn) - Kawasaki Frontale (Jpn)=
-1005 4175 V 7200=BISS=Asian Football=Unknown=4.2.0=20250305-075548 by HBO=F8 15 83 90 AF 8C 2D 68=ExtraInfo=
-70 11078 H 7200=BISS=Asian Football=UAE060 A=4.2.0=20250305-122457 by Icone=23 CB B2 A0 7D 6C 26 0F=Champions League=
-1005 3860 V 30000=BISS=Asian Football=Unknown=4.2.0=20250305-123456 by HBO=23 CB B2 A0 7D 6C 26 0F=Champions League=
-530 11597 V 4000=BISS=Asian Football=SNG 02 - Chain A=4.2.0=20250305-144418 by Icone=C0 54 9A AE 36 77 01 AE=Champions League=
-70 12726 V 7200=BISS=Asian Football=MAIN=4.2.0=20250305-170703 by Albahraniy=F9 15 CB D9 28 AD 02 D7=Champions League=
-1005 3868 H 7200=BISS=Asian Football=Unknown=4.2.0=20250306-070608 by Forsat==Champions League=
-70 11189 V 7198=BISS=Asian Football=1-KRLGU+_Main=4.2.0=20250306-085502 by Ratzvan==AFC Champions League 2, Jeonbuk Motors v Sydney FC=
-1005 4148 H 7200=BISS=Asian Football=Unknown=4.2.0=20250306-121505 by Forsat==ExtraInfo=
-1005 4148 H 7200=BISS=Asian Football=Unknown=4.2.0=20250306-125128 by HBO==ExtraInfo=
+1005 4132 H 10000=BISS=Cricket Feeds=Unknown=4.2.0=20250311-133445 by HBO==ExtraInfo=
+1005 3930 V 10000=BISS=Cricket Feeds=Unknown=4.2.0=20250313-133227 by HBO==ExtraInfo=
+70 10985 V 9874=BISS=Cycling Feeds=SNG 07 - Chain A=4.2.0=20250222-082549 by Ratzvan=2F A8 29 00 5B 23 3D BB=UAE Tour 2025=
+70 10995 V 7200=BISS=Cycling Feeds=ADM SNG02 Chain A ser 01=4.2.0=20250223-061825 by Jacop=91 92 89 AC 87 41 63 2B=ExtraInfo=
+70 10985 V 9874=BISS=Cycling Feeds=SNG 07 - Chain A=4.2.0=20250223-092615 by barney115=35 C8 1B 18 6D 05 2E A0=UAE Tour 2025=
+70 12546 H 7200=BISS=Cycling Feeds=F512 VELO DROME main (IXI PROD 4)=4.2.0=20250301-131805 by tevesat=20 25 E2 27 1E 01 03 22=ExtraInfo=
+70 11144 H 7200=BISS=Cycling Feeds=@ Omloop Het Nieuwsblad Men Elite (BE-VRT)=4.2.0=20250301-162949 by klickklack=FF 92 D0 61 30 1E 16 64=ExtraInfo=
+70 11060 V 7200=BISS=Cycling Feeds=@ BEL 69 (RTBF)=4.2.0=20250304-121422 by klickklack=B1 76 16 3D D8 10 CF B7=ExtraInfo=
+70 11606 V 7200=BISS=Cycling Feeds=@ Crankworkx Rotorua - Downhill (IKOMG)=4.2.0=20250308-012926 by klickklack=A1 DE 10 8F 20 19 19 52=ExtraInfo=
+130 11612 V 9600=BISS=Cycling Feeds=HOL 270-1=4.2.0=20250308-104454 by Ratzvan=1B 8B 12 B8 A2 D5 A6 1D=STRADE BIANCHE 2025=
+130 11611 V 9597=BISS=Cycling Feeds=HOL 270-1=4.2.0=20250308-104454 by Ratzvan=1B 8B 12 B8 A2 D5 A6 1D=STRADE BIANCHE 2025=
+70 11523 V 7200=BISS=Cycling Feeds=CRANKWORX=4.2.0=20250309-023457 by AhmedCeNa=A1 DE 10 8F 20 19 19 52=ExtraInfo=
+70 11043 V 7200=BISS=Cycling Feeds=F656/OER/1/TEST=4.2.0=20250309-095312 by Akrem=38 C2 02 FC 98 40 51 29=ExtraInfo=
+130 11211 V 9598=BISS=Cycling Feeds=HOL 270-1=4.2.0=20250311-131114 by Ratzvan=39 BB 19 0D 46 F8 CE 0C=Tirreno-Adriatico (Italy)=
+70 11190 V 7200=BISS=Cycling Feeds=@ F656/OER/1/PN25_UER/MAIN (*unnamed-1*)=4.2.0=20250313-131710 by klickklack=38 C2 02 FC 98 40 51 29=Paris-Nice=
+130 11211 V 9598=BISS=Cycling Feeds=HOL 270-1=4.2.0=20250314-115655 by heidani=14 AA EA A8 9F 9F F2 30=Tirreno-Adriatico (Italy)=
+70 11179 V 7200=BISS=Cycling Feeds=F656/OER/3.1/PN25_FTV/MAIN=4.2.0=20250315-121808 by Albahraniy=38 C2 02 FC 98 40 51 29=ExtraInfo=
+420 11470 V 6800=BISS=Cycling Feeds=Unknown=4.2.2=20250315-161024 by klickklack=65 47 00 AC 00 65 47 AC=ExtraInfo=
+420 11478 V 6900=BISS=Cycling Feeds=TUR 136B (TRT)=4.2.2=20250316-162353 by H5YD7R=98 27 00 BF 00 98 27 BF=ExtraInfo=
+130 11211 V 9598=BISS=Cycling Feeds=HOL 270-1=4.2.0=20250316-181048 by krzyś1=47 9E 73 58 35 A1 C3 99=ExtraInfo=
+160 12579 H 4798=FTA=Cycling Feeds=: ITA 806 A=4.2.0=20241007-142933 by Ratzvan==Bernocchi Cup (Italy)=
+130 11640 V 2221=FTA=Cycling Feeds=Unname=4.2.0=20241012-114241 by omid1348==ExtraInfo=
+160 11090 H 4798=FTA=Cycling Feeds=ITA 806 A=4.2.0=20241016-145042 by Ratzvan==GIRO DEL VENETO (ITALY)=
+283 12646 V 5000=FTA=Cycling Feeds=NLEMG HOL310 1=4.2.0=20241026-144839 by kahub==Exact Cross Heerderstrand 2024=
+283 12646 V 5000=FTA=Cycling Feeds=BEL119MAIN=4.2.0=20241123-120050 by kahub==Exact Cross Kortrijk - Urban Cross 2024=
+282 12646 V 5000=FTA=Cycling Feeds=BEL119=4.2.2=20241230-192835 by archiesat==ExtraInfo=
+282 12646 V 5000=FTA=Cycling Feeds=BEL119 MAIN=4.2.0=20250101-100734 by archiesat==ExtraInfo=
+70 11181 V 7198=FTA=Cycling Feeds=Unknown=4.2.0=20250104-182859 by Robertooo==ExtraInfo=
+282 12646 V 5000=FTA=Cycling Feeds=BEL119=4.2.2=20250201-090850 by archiesat==ExtraInfo=
+70 11021 H 9874=FTA=Cycling Feeds=DMI SNG 2=4.2.0=20250205-110921 by Ratzvan==UAE TOUR WOMEN 2025 (since tomorrow...) - TEST FEED=
+-10 11488 V 2500=FTA=Cycling Feeds=ch24=4.2.0=20250208-102611 by archiesat==ExtraInfo=
+282 12646 V 5000=FTA=Cycling Feeds=VRT Sat Encoder1=4.2.0=20250209-095606 by archiesat==ExtraInfo=
+70 11523 V 7200=FTA=Cycling Feeds=@ E-289 (MEDIAPRO PORTUGAL)=4.2.0=20250221-124334 by klickklack==ExtraInfo=
+-80 12548 V 7200=FTA=Cycling Feeds=NLEMG HOL310-2=4.2.0=20250223-150851 by reindeerw5m==Tour des Alpes Maritimes - Stage 2=
+-80 12558 V 7200=FTA=Cycling Feeds=NLEMG HOL310-1=4.2.0=20250223-170005 by AhmedCeNa==Tour des Alpes Maritimes - Stage 2=
+70 11544 V 9600=FTA=Cycling Feeds=@ E342 FEED 1 (*unnamed-1*)=4.2.0=20250228-134352 by klickklack==ExtraInfo=
+70 12676 V 7498=FTA=Cycling Feeds=Unknown=4.2.0=20250302-183520 by Robertooo==ExtraInfo=
+70 11154 V 7200=FTA=Cycling Feeds=F/656/OER/3.1/FTV MAIN=4.2.0=20250310-154841 by Crazy Sat==ExtraInfo=
+70 11163 V 7198=FTA=Cycling Feeds=OER/F504/1/CAM 1=4.2.0=20250311-105355 by Ratzvan==Paris-Nice (France)=
+70 11172 V 7199=FTA=Cycling Feeds=OER/F504/1/CAM 1=4.2.0=20250311-105355 by Ratzvan==Paris-Nice (France)=
+70 11127 V 7199=FTA=Cycling Feeds=(empty)=4.2.2=20250311-105836 by Ratzvan==Paris-Nice (France)=
+70 11136 V 7199=FTA=Cycling Feeds=(empty)=4.2.2=20250311-105836 by Ratzvan==Paris-Nice (France)=
+1005 4175 V 7200=BISS=Asian Football=Unknown=4.2.0=20250312-144005 by HBO=FA AE 8E 36 6D 10 82 FF=ExtraInfo=
+70 10969 V 7200=BISS=Asian Football=UAE 066 - M=4.2.0=20250312-144750 by believing_boy=FA AE 8E 36 6D 10 82 FF=Champions League=
+360 11691 H 5000=BISS=Asian Football=IQN media series=4.2.0=20250312-173332 by Jacop==Champions League=
+70 12645 H 7198=BISS=Asian Football=TBS ADHOC ENC 2=4.2.0=20250313-054052 by Ratzvan=02 7B 8D 0A 33 C2 2E 23=AFC Champions League 2, Sydney FC - Jeonbuk=
+20 3986 H 7200=BISS=Asian Football=Unknown=4.2.0=20250313-070123 by yyxiaofeng=02 7B 8D 0A 33 C2 2E 23=AFC Champions League 2, Sydney FC - Jeonbuk=
+1005 3995 H 7200=BISS=Asian Football=Unknown=4.2.0=20250313-101619 by HBO==ExtraInfo=
+70 11052 V 7200=BISS=Asian Football=AFC Elite - Main=4.2.0=20250317-050014 by believing_boy=26 7D 6D 10 9A 92 5F 8B=Champions League=
+420 11008 V 7498=BISS=Turkish Football=TUR_21_A=4.2.2=20250316-092810 by Ratzvan=C9 79 25 67 F4 95 9B 24=Super Lig , Rizespor - Bodrumspor=
+420 11017 V 7498=BISS=Turkish Football=TUR 123 A=4.2.2=20250316-093412 by Ratzvan=13 F9 5D 69 FF 89 2D B5=1. Lig, Istanbulspor ASI - Genclerbirligi=
 1005 3860 V 30000=BISS=Australian Soccer=Unknown=4.2.0=20250222-081121 by HBO=23 61 5E E2 E9 66 55 A4=ExtraInfo=
 1005 3915 V 7200=BISS=Australian Soccer=ENC 5=4.2.0=20250222-122527 by Albahraniy=8C 6B B1 A8 7D D8 D6 2B=ExtraInfo=
 1005 3905 H 7200=BISS=Australian Soccer=Unknown=4.2.0=20250223-044730 by HBO=DC 44 F1 11 1B AB 3A 00=ExtraInfo=
@@ -313,37 +378,19 @@
 1005 3935 H 7200=BISS=Australian Soccer=Unknown=4.2.0=20250308-062434 by HBO==ExtraInfo=
 1005 3915 H 7200=BISS=Australian Soccer=Unknown=4.2.0=20250308-081202 by HBO==ExtraInfo=
 1005 3935 H 7200=BISS=Australian Soccer=Unknown=4.2.0=20250309-035650 by HBO==ExtraInfo=
-420 11008 V 7498=BISS=Turkish Football=: TUR 137-A=4.2.2=20250305-091955 by Ratzvan=3C 65 73 14 BF 5E 93 B0=1. Lig, Corum - Boluspor=
-420 11017 V 7498=BISS=Turkish Football=TUR 144 B=4.2.2=20250305-092210 by Ratzvan=F8 8C 3F C3 FF C9 36 FE=1. Lig, Sanliurfaspor - Adanaspor AS=
-420 10999 V 7498=BISS=Turkish Football=TUR 121-A=4.2.2=20250305-093209 by Ratzvan=2F 84 71 24 F0 45 F1 26=1. Lig, Keciorengucu - Erokspor=
-70 11649 V 7500=BISS=Turkish Football=TUR122A=4.2.2=20250305-142046 by Icone=B2 47 42 3B 5B 34 9C 2B=ExtraInfo=
-420 11017 V 7498=BISS=Turkish Football=TUR 136 A=4.2.2=20250306-091806 by Ratzvan=4F 26 82 F7 EB DB 81 47=1. Lig, Ankaragucu v Yeni Malatyaspor=
-420 10999 V 7498=BISS=Turkish Football=TUR 135-A=4.2.2=20250306-093131 by Ratzvan=67 B6 A8 C5 C4 24 71 59=1. Lig, Erzurumspor v Pendikspor=
-420 11008 V 7498=FTA=Turkish Football=TUR 143 A=4.2.2=20250306-094132 by Ratzvan=C8 C0 70 F8 B2 1F 55 26=1. Lig, Istanbulspor v Sakaryaspor=
-420 11026 V 7498=BISS=Turkish Football=TUR122A=4.2.2=20250306-163630 by Ratzvan=D1 FC 57 24 BC 62 8F AD=1. Lig, Umraniyespor v Kocaelispor=
-420 11092 V 7498=BISS=Turkish Football=TUR-137 A=4.2.2=20250308-101032 by Ratzvan=FC 46 E2 24 90 18 88 30=1. Lig, Igdir FK - Sanliurfaspor=
-420 11082 V 7500=BISS=Turkish Football=TUR 147A=4.2.2=20250309-085453 by Akrem=12 65 1F 96 6C 11 70 ED=ST: 11:30=
-420 11025 V 7500=BISS=Turkish Football=TUR 121-A=4.2.2=20250309-132038 by Akrem=C2 62 5B 7F 26 CC 18 0A=ExtraInfo=
-420 11007 V 7500=BISS=Turkish Football=TUR 137-B=4.2.2=20250309-132914 by Akrem=79 CE 81 C8 4B 40 17 A2=ST: 18:30=
-420 11083 V 7498=BISS=Turkish Football=TUR 141 - A=4.2.2=20250310-090632 by Ratzvan=29 13 8B C7 73 5B 41 0F=1. Lig, Pendikspor v Amedspor=
-420 11092 V 7498=BISS=Turkish Football=TUR 136 A=4.2.2=20250310-093855 by xachik=3A 49 8B 0E 8C D7 10 73=1. Lig,=
-420 11026 V 7498=FTA=Turkish Football=TUR 123 B=4.2.2=20250310-094701 by Ratzvan=57 32 A4 2D 4F 7B 21 EB=1. Lig, Boluspor v Istanbulspor=
+1005 3913 V 7200=BISS=Australian Soccer=ENC 10=4.2.0=20250312-071318 by xachik=14 25 03 3C 20 AB CD 98=ExtraInfo=
+1005 3915 V 7200=BISS=Australian Soccer=Unknown=4.2.0=20250314-073817 by HBO==ExtraInfo=
+1005 3860 V 30000=BISS=Australian Soccer=Unknown=4.2.0=20250315-044543 by HBO==ExtraInfo=
+1005 3915 V 7200=BISS=Australian Soccer=Unknown=4.2.0=20250315-094948 by HBO==ExtraInfo=
+1005 3966 V 7199=BISS=Australian Soccer=ENC 5 (Provider ID: SES)=4.2.0=20250316-035514 by safrifulkamal=03 BE BE 7F 09 25 20 4E=Australia - A-League Men Matchday 23=
+1005 3975 V 7200=BISS=Australian Soccer=Unknown=4.2.0=20250316-040046 by HBO==ExtraInfo=
+1005 3860 V 30000=BISS=Australian Soccer=Unknown=4.2.0=20250316-064947 by HBO==ExtraInfo=
+1005 3860 V 30000=BISS=Holland Football=Unknown=4.2.0=20250316-121654 by HBO==ExtraInfo=
+70 11011 V 7198=BISS=Holland Football=IMG A EU=4.2.0=20250316-124832 by Ratzvan=B6 AC BB 1D A6 47 6A 57=Eredivisie, Ajax - AZ Alkmaar=
+70 12735 V 7198=BISS=Holland Football=ENC 2=4.2.0=20250318-063455 by Ratzvan=B9 E3 94 30 D8 13 49 34=EREDIVISIE HIGHLIGHTS=
 70 11540 H 15000=BISS=American Football=SuperBowl World Feed DR=4.2.0=20250209-005821 by kahub=07 EA 3E 2F A2 80 AD CF=ExtraInfo=
 1005 3983 V 7500=BISS=American Football=Astra1M Service 2=4.2.0=20250209-181300 by Albahraniy=07 EA 3E 2F A2 80 AD CF=ExtraInfo=
 70 3993 V 7500=BISS=American Football=Astra1M Service 3=4.2.0=20250209-212158 by Albahraniy=07 EA 3E 2F A2 80 AD CF=ExtraInfo=
-70 12736 V 7200=BISS=Holland Football=ENC 5=4.2.0=20250302-100147 by Saint Hubert=2C 48 BD 31 19 F6 E7 F6=ExtraInfo=
-1005 3905 V 7200=BISS=Holland Football=Unknown=4.2.0=20250302-101555 by orangebirds==ExtraInfo=
-1005 3860 V 30000=BISS=Holland Football=Unknown=4.2.0=20250302-124208 by ozielgoiano==ExtraInfo=
--550 4150 H 7200=BISS=Holland Football=Unknown=4.2.0=20250302-124208 by ozielgoiano==ExtraInfo=
-1005 3905 V 7200=BISS=Holland Football=Dutch League Round 24=4.2.0=20250302-124934 by SuannS==ExtraInfo=
-70 12735 V 7200=BISS=Holland Football=ENC 14=4.2.0=20250302-220048 by omid1348=E3 33 88 9E 2C FF F8 23=ExtraInfo=
-70 12735 V 7198=BISS=Holland Football=ENC 14=4.2.0=20250303-155712 by Ratzvan=6E 75 D2 B5 1D 82 19 B8=EREDIVISIE HIGHLIGHTS=
-1005 3913 V 7200=BISS=Holland Football=ENC 22=4.2.0=20250308-171839 by Albahraniy=8B DF 77 E1 53 13 25 8B=ExtraInfo=
-1005 3913 V 7200=BISS=Holland Football=ENC 22=4.2.0=20250308-174229 by Albahraniy=03 07 08 12 09 AA BB 6E=ExtraInfo=
-70 12676 V 7200=BISS=Holland Football=Unknown=4.2.0=20250308-175205 by mikem93==ExtraInfo=
-1005 3905 V 7200=BISS=Holland Football=Unknown=4.2.0=20250309-123032 by HBO=22 56 41 B9 98 B8 55 A5=ExtraInfo=
-1005 3895 V 7200=BISS=Holland Football=Unknown=4.2.0=20250309-151955 by HBO==ExtraInfo=
-70 11011 V 7200=BISS=Holland Football=IMG A EU=4.2.0=20250309-214907 by Jacop=A9 26 F4 C3 88 68 FA EA=ExtraInfo=
 70 10998 V 9874=BISS=Portugese Football=@ GVA_Fi03 (EUROVISION SA)=4.2.0=20250302-183927 by klickklack=47 2D 7A EE DF 4C 6B 96=ExtraInfo=
 70 11561 V 7199=BISS=Portugese Football=E-228 Main=4.2.0=20250303-173500 by Ratzvan=AA BB 20 85 25 03 03 2B=Liga 2, Paços Ferreira v Oliveirense=
 70 11570 V 7200=BISS=Portugese Football=E-228 Main=4.2.0=20250308-101949 by Jacop=AA AA 08 5C 03 BB BB 79=ExtraInfo=
@@ -353,6 +400,16 @@
 70 11460 V 7200=BISS=Portugese Football=Unknown=4.2.0=20250309-104555 by Abo Saeid Satellite=09 03 20 2C 25 FA CA E9=ExtraInfo=
 70 11460 V 7200=BISS=Portugese Football=E-72=4.2.0=20250309-143146 by Akrem=AB 09 03 B7 20 25 AB F0=ST: 15:00=
 70 11180 V 7200=BISS=Portugese Football=Unknown=4.2.0=20250309-153218 by Abo Saeid Satellite=BC 20 25 01 03 09 CB D7=ExtraInfo=
+70 11570 V 7200=BISS=Portugese Football=E-228 Main=4.2.0=20250310-174156 by Icone=AA BB 20 85 25 03 10 38=ExtraInfo=
+70 11189 V 7200=BISS=Portugese Football=E-298=4.2.0=20250314-192425 by Jacop=14 03 20 37 25 FA CA E9=ExtraInfo=
+70 11552 V 7200=BISS=Portugese Football=E-95 MAIN=4.2.0=20250314-203821 by Albahraniy=14 03 AA C1 BB 20 25 00=ExtraInfo=
+70 11692 H 7199=BISS=Portugese Football=E-95 MAIN=4.2.0=20250315-101504 by Ratzvan=BC 20 25 01 03 15 CB E3=Liga 2, Academico Viseu - Penafiel=
+70 12685 H 7200=BISS=Portugese Football=E-72=4.2.0=20250315-134627 by Icone=AB 15 03 C3 20 25 AB F0=ExtraInfo=
+70 11561 V 7200=BISS=Portugese Football=E-228 Main=4.2.0=20250315-155018 by Icone=AA BB 20 85 25 03 15 3D=ExtraInfo=
+70 12645 H 7200=BISS=Portugese Football=E-228 Main=4.2.0=20250316-122254 by mikem93=16 03 20 39 25 FA CA E9=ExtraInfo=
+70 11692 H 7200=BISS=Portugese Football=E-298=4.2.0=20250316-144841 by AhmedCeNa=AB 16 03 C4 20 25 BA FF=ExtraInfo=
+70 11081 V 9875=BISS=Portugese Football=Fi14_GNVE=4.2.0=20250316-152826 by AhmedCeNa=41 EE FA 29 DB 3A 37 4C=ExtraInfo=
+70 11561 V 7199=BISS=Portugese Football=E-228 Main=4.2.0=20250316-201237 by Ratzvan=AA BB 20 85 25 03 16 3E=Liga 2, Vizela - Pacos Ferreira=
 390 10958 V 9700=BISS=Greece/Cyprus Football=GRC071 ITT.GR=4.2.0=20250309-172357 by Jacop=22 55 CC 43 BB 12 34 01=ExtraInfo=
 390 12617 V 9700=BISS=Greece/Cyprus Football=OTE 1=4.2.2=20250309-172847 by Jacop==ExtraInfo=
 1005 3867 H 7200=BISS=Chinese Football=Unknown=4.2.0=20250223-045612 by orangebirds==ExtraInfo=
@@ -369,6 +426,14 @@
 1005 3896 H 7200=BISS=Chinese Football=Unknown=4.2.0=20250302-072857 by orangebirds==ExtraInfo=
 1005 3997 H 7200=BISS=Chinese Football=Unknown=4.2.0=20250303-031336 by yyxiaofeng==ExtraInfo=
 1005 3801 H 7200=BISS=Chinese Football=Unknown=4.2.0=20250303-031336 by yyxiaofeng==ExtraInfo=
+70 11182 V 7200=BISS=African Football=Main (Vislink)=4.2.0=20250119-114833 by Hackintosh=DE 6D 19 64 01 20 25 46=CAF Confederation Cup , CS Sfaxien (Tun) v Bravos do Maquis (Ang)=
+0 12573 H 7199=BISS=African Football=*unnamed-1* (*unnamed-1*)=4.2.0=20250119-120215 by Hackintosh=DE 6D 19 64 01 20 25 46=CAF Confederation Cup , Zamalek (Egy) v Enyimba (Nga)=
+70 11598 V 21600=BISS=African Football=Unknown=4.2.0=20250119-150333 by Abo Saeid Satellite=DE 6D 19 64 01 20 25 46=Champions League=
+210 11592 H 7200=BISS=African Football=Unknown=4.2.0=20250119-153139 by mohammed281977==ExtraInfo=
+31 10960 H 7500=BISS=African Football=beIN SPORTS / Service- 1=4.2.0=20250119-154012 by omid1348=AD 54 9E 9F 52 89 7B 56=Champions League=
+31 10969 H 7500=BISS=African Football=beIN SPORTS / Service- 1=4.2.0=20250119-154012 by omid1348=AD 54 9E 9F 52 89 7B 56=Champions League=
+70 11163 V 7200=BISS=African Football=Unknown=4.2.0=20250119-171931 by Abo Saeid Satellite=DE 6D 19 64 01 20 25 46=ExtraInfo=
+70 11003 V 4938=BISS=African Football=A N A PRT=4.2.0=20250309-200228 by AhmedCeNa=79 68 DE BF FF 4A 5C A5=ExtraInfo=
 100 11293 H 14400=BISS=UEFA International Football=2-SAT Main=4.2.0=20241216-170222 by Jacop=16 F8 B6 C4 AC 8F 12 4D=Women's Euro 2025 Draw=
 70 10961 V 9874=BISS=UEFA International Football=Fi10_GNVE=4.2.0=20250206-082231 by Ratzvan=D4 B6 8C 16 04 10 0B 1F=2025-27 European Under-21 Championship Qualifying Draw=
 -220 12650 H 14400=BISS=UEFA International Football=E393 PORTUGAN V ENGLAND=4.2.2=20250221-192439 by archiesat=CD 33 BC BC 33 AC 11 F0=ExtraInfo=
@@ -383,6 +448,7 @@
 190 11632 V 9875=BISS=UEFA International Football=NLEMG HOL309-1=4.2.2=20250225-190831 by Jacop=EA 23 25 32 C9 36 9B 9A=ExtraInfo=
 282 12632 V 7200=BISS=UEFA International Football=Unknown=4.2.0=20250226-185531 by archiesat=FF 20 25 44 02 26 AA D2=ExtraInfo=
 70 12685 V 7120=BISS=UEFA International Football=Pitch - Womens Nation League=4.2.0=20250226-195045 by omid1348=AB 71 A9 C5 9D 26 02 C5=ExtraInfo=
+160 12527 H 7200=BISS=UEFA International Football=Beckenbauer Cup=4.2.0=20250317-200750 by Jacop==ExtraInfo=
 70 12736 V 7200=BISS=Nordic Football=ENC 22 (SES)=4.2.0=20240922-140737 by Hackintosh=B7 27 9E 7C EE 96 66 EA=ExtraInfo=
 70 12735 V 7198=BISS=Nordic Football=ENC 2=4.2.0=20240926-155430 by Ratzvan=C8 F3 3C F7 E4 4A 8E BC=NORDIC FOOTBALL: SWEDEN Allsvenskan, Vasteras SK- Goteborg=
 70 12735 V 7199=BISS=Nordic Football=ENC 2=4.2.0=20240929-072324 by Ratzvan=18 B6 4D 1B 7A 32 38 E4=NORDIC FOOTBALL: Sweden Allsvenskan, AIK - Hammarby (14:00 CET)=
@@ -396,14 +462,8 @@
 -10 11463 V 7200=BISS=Nordic Football=DNK 103 A=4.2.0=20241202-174354 by Ratzvan=1F ED AB B7 EB EE F1 CA=Unknown=
 -10 11463 V 7198=BISS=Nordic Football=DNK 103 A=4.2.0=20241202-174354 by Ratzvan=1F ED AB B7 EB EE F1 CA=Unknown=
 70 11180 H 7200=BISS=Nordic Football=@ DNK 126 A (OBtech )=4.2.0=20250301-123124 by klickklack=F9 D2 FF CA E0 E3 C7 8A=ExtraInfo=
-70 11182 V 7200=BISS=African Football=Main (Vislink)=4.2.0=20250119-114833 by Hackintosh=DE 6D 19 64 01 20 25 46=CAF Confederation Cup , CS Sfaxien (Tun) v Bravos do Maquis (Ang)=
-0 12573 H 7199=BISS=African Football=*unnamed-1* (*unnamed-1*)=4.2.0=20250119-120215 by Hackintosh=DE 6D 19 64 01 20 25 46=CAF Confederation Cup , Zamalek (Egy) v Enyimba (Nga)=
-70 11598 V 21600=BISS=African Football=Unknown=4.2.0=20250119-150333 by Abo Saeid Satellite=DE 6D 19 64 01 20 25 46=Champions League=
-210 11592 H 7200=BISS=African Football=Unknown=4.2.0=20250119-153139 by mohammed281977==ExtraInfo=
-31 10960 H 7500=BISS=African Football=beIN SPORTS / Service- 1=4.2.0=20250119-154012 by omid1348=AD 54 9E 9F 52 89 7B 56=Champions League=
-31 10969 H 7500=BISS=African Football=beIN SPORTS / Service- 1=4.2.0=20250119-154012 by omid1348=AD 54 9E 9F 52 89 7B 56=Champions League=
-70 11163 V 7200=BISS=African Football=Unknown=4.2.0=20250119-171931 by Abo Saeid Satellite=DE 6D 19 64 01 20 25 46=ExtraInfo=
-70 11003 V 4938=BISS=African Football=A N A PRT=4.2.0=20250309-200228 by AhmedCeNa=79 68 DE BF FF 4A 5C A5=ExtraInfo=
+70 11171 V 7200=BISS=Nordic Football=DNK83 _ENC 1=4.2.0=20250314-193105 by Jacop=F9 D2 FF CA E0 E3 C7 8A=ExtraInfo=
+70 11162 V 7200=BISS=Nordic Football=DNK 103 A=4.2.0=20250314-194023 by Jacop=F9 D2 FF CA E0 E3 C7 8A=ExtraInfo=
 70 11171 H 7198=BISS=Athletics Feeds=ENC1 - CH1=4.2.0=20250228-153039 by Ratzvan=D0 22 8E 80 11 FF BA CA=World Indoor Tour Gold Madrid 2025=
 80 11163 H 7199=BISS=Athletics Feeds=WIA - Madrid=4.2.0=20250228-154115 by Ratzvan=D0 22 8E 80 11 FF BA CA=World Indoor Tour Gold Madrid 2025=
 70 11135 H 7200=BISS=Athletics Feeds=PMT PID:  @ F511/ALLSTAR MAIN (*unnamed-1*)=4.2.0=20250228-170915 by klickklack=20 25 E2 27 1E 28 02 48=ExtraInfo=
@@ -414,6 +474,13 @@
 70 10995 V 7200=BISS=Athletics Feeds=@ EICH25_Feed4 (EBUER)=4.2.0=20250306-180656 by klickklack=76 3F 7D 32 D1 25 4E 44=European Athletics Indoor Championships 2025 Feed4 in 4:2:0=
 -80 12607 V 3615=BISS=Athletics Feeds=NLEMG HOL 219-1=4.2.0=20250306-182319 by AhmedCeNa=D4 39 AB B8 14 E9 24 21=ExtraInfo=
 70 11084 H 14400=BISS=Athletics Feeds=Fi20GNVA_EICH25_Feed1=4.2.2=20250307-000945 by AhmedCeNa=6F 67 1F F5 A6 A9 E0 2F=ExtraInfo=
+70 11044 V 7199=BISS=Athletics Feeds=Fi11_GNVE=4.2.0=20250316-063522 by Ratzvan=E9 3F FC 24 FD 03 05 05=2025 Zurich Marathon Barcelona (Spain)=
+70 11145 V 7199=BISS=Athletics Feeds=SUI 66=4.2.2=20250316-081328 by Ratzvan=FF 85 D0 54 31 6E 23 C2=Rome Marathon 2025=
+160 11185 H 14400=BISS=Concert Feeds=RAI-ITA99-A=4.2.0=20250213-174517 by Francescone=50 BD 4B 58 6C B7 16 39=ExtraInfo=
+216 11628 H 7200=BISS=Concert Feeds=UAE-098 MAIN=4.2.0=20250213-191357 by Tomek22=E4 52 BA F0 12 13 02 27=ExtraInfo=
+160 11185 H 14400=BISS=Concert Feeds=RAI-ITA99-A=4.2.0=20250214-173721 by Jacop=13 A7 4D 07 4F 6C C9 84=ExtraInfo=
+160 11185 H 14400=BISS=Concert Feeds=RAI-ITA99-A=4.2.0=20250215-172712 by Francescone=50 BD 4B 58 6C B7 16 39=ExtraInfo=
+160 11185 H 14400=BISS=Concert Feeds=RAI-ITA99-A=4.2.0=20250216-110939 by Jacop==ExtraInfo=
 None 10985 V 9600=BISS=Polska Football=POL -111=4.2.2=20250226-185519 by Jacop=DC AE 20 AA 25 BB 02 E2=ExtraInfo=
 160 10985 V 9600=BISS=Polska Football=POL -111=4.2.0=20250227-171005 by mikem93=DC AE 20 AA 25 BB 02 E2=ExtraInfo=
 160 10985 V 9600=BISS=Polska Football=POL -111=4.2.2=20250227-171416 by krzyś1=DC AE 20 AA 25 BB 02 E2=ExtraInfo=
@@ -428,6 +495,12 @@ None 10985 V 9600=BISS=Polska Football=POL -111=4.2.2=20250226-185519 by Jacop=D
 160 11024 V 7200=BISS=Polska Football=POL-102 Main (*unnamed-1*)=4.2.2=20250305-123254 by klickklack=D1 02 AC 7F DC 20 25 21=ExtraInfo=
 160 12549 V 7200=BISS=Polska Football=POL-102 Main=4.2.2=20250308-144134 by Jacop==ExtraInfo=
 160 10985 V 9600=BISS=Polska Football=POL 48 ENC1=4.2.2=20250309-173951 by krzyś1=DC AE 20 AA 25 CC 03 F4=Poland Betclic 2. Liga - match: Olimpia Grudziądz - Resovia Rzeszów=
+160 10986 V 9599=BISS=Polska Football=POL-111=4.2.2=20250310-164301 by Ratzvan=DC AE 20 AA 25 CC 03 F4=Division 1, Wisla Plock - Termalica B-B.=
+160 10985 V 9600=BISS=Polska Football=POL 030=4.2.2=20250314-174537 by krzyś1=DC AE 20 AA 25 CC 03 F4=Poland Betclic 1. Liga - match: Miedż Legnica - Wisła Kraków=
+160 10985 V 9600=BISS=Polska Football=POL-78 ENC 1=4.2.0=20250315-180754 by krzyś1=DC AE 20 AA 25 CC 03 F4=Poland Betclic 1. Liga - mecz: Warta Poznań - Polonia Warszawa=
+160 12592 H 7198=BISS=Polska Football=POL-102 MAIN=4.2.2=20250316-103231 by Ratzvan=D1 02 AC 7F 16 03 25 3E=Ekstraliga Women, Czarni Sosnowiec - GKS Katowice=
+160 10985 V 9600=BISS=Polska Football=POL-52 CM-5000=4.2.0=20250316-125337 by krzyś1=DC AE 20 AA 25 CC 03 F4=Poland Betclic 1. Liga - match: Górnik Łęczna - Arka Gdynia=
+160 10985 V 9600=BISS=Polska Football=POL 030=4.2.2=20250316-180231 by krzyś1=DC AE 20 AA 25 CC 03 F4=Poland Betclic 2. Liga - match: KKS 1925 Kalisz - Chojniczanka Chojnice=
 210 11596 H 5000=BISS=Moroccan Football=Unknown=4.2.0=20250302-210759 by samirbelg2711=02 03 FE 03 ED 20 25 32=ExtraInfo=
 216 11580 H 5000=BISS=Moroccan Football=M104-MRC007-Main=4.2.0=20250302-214354 by AhmedCeNa=02 03 FE 03 ED 20 25 32=ExtraInfo=
 216 11580 H 5000=BISS=Moroccan Football=M99.MRC004=4.2.0=20250303-211856 by AhmedCeNa=03 03 FE 04 ED 20 25 32=ExtraInfo=
@@ -437,11 +510,17 @@ None 10985 V 9600=BISS=Polska Football=POL -111=4.2.2=20250226-185519 by Jacop=D
 210 11580 H 5000=BISS=Moroccan Football=Unknown=4.2.0=20250308-210711 by samirbelg2711=08 03 FE 09 ED 20 25 32=ExtraInfo=
 216 11588 H 5000=BISS=Moroccan Football=DSNG79 MOD1=4.2.0=20250308-210911 by AhmedCeNa=08 03 FE 09 ED 20 25 32=ExtraInfo=
 210 11588 H 5000=BISS=Moroccan Football=Unknown=4.2.0=20250309-220941 by mikem93=09 03 FE 10 ED 20 25 32=ExtraInfo=
-160 11185 H 14400=BISS=Concert Feeds=RAI-ITA99-A=4.2.0=20250213-174517 by Francescone=50 BD 4B 58 6C B7 16 39=ExtraInfo=
-216 11628 H 7200=BISS=Concert Feeds=UAE-098 MAIN=4.2.0=20250213-191357 by Tomek22=E4 52 BA F0 12 13 02 27=ExtraInfo=
-160 11185 H 14400=BISS=Concert Feeds=RAI-ITA99-A=4.2.0=20250214-173721 by Jacop=13 A7 4D 07 4F 6C C9 84=ExtraInfo=
-160 11185 H 14400=BISS=Concert Feeds=RAI-ITA99-A=4.2.0=20250215-172712 by Francescone=50 BD 4B 58 6C B7 16 39=ExtraInfo=
-160 11185 H 14400=BISS=Concert Feeds=RAI-ITA99-A=4.2.0=20250216-110939 by Jacop==ExtraInfo=
+216 11588 H 5000=BISS=Moroccan Football=DSNG79 MOD1=4.2.0=20250310-200020 by AhmedCeNa=10 03 FE 11 ED 20 25 32=ExtraInfo=
+210 11581 H 5000=BISS=Moroccan Football=Unknown=4.2.0=20250310-212005 by samirbelg2711=10 03 FE 11 ED 20 25 32=ExtraInfo=
+210 11581 H 5000=BISS=Moroccan Football=Unknown=4.2.0=20250314-211026 by samirbelg2711=14 03 FE 15 ED 20 25 32=ExtraInfo=
+210 11588 H 5000=BISS=Moroccan Football=Unknown=4.2.0=20250314-211439 by samirbelg2711=14 03 FE 15 ED 20 25 32=ExtraInfo=
+210 11581 H 4000=BISS=Moroccan Football=fifM=4.2.0=20250315-205853 by samirbelg2711=15 03 FE 16 ED 20 25 32=ExtraInfo=
+210 11593 H 4000=BISS=Moroccan Football=M99_MRC004=4.2.0=20250315-210354 by samirbelg2711=15 03 FE 16 ED 20 25 32=ExtraInfo=
+210 11588 H 4000=BISS=Moroccan Football=MRC003-WF/B=4.2.0=20250315-210900 by samirbelg2711=15 03 FE 16 ED 20 25 32=ExtraInfo=
+30 11662 H 5000=BISS=Moroccan Football=Unknown=4.2.0=20250315-212401 by samirbelg2711=15 03 FE 16 ED 20 25 32=ExtraInfo=
+210 11581 H 5000=BISS=Moroccan Football=M41-MRC006-Main=4.2.0=20250316-210308 by samirbelg2711=16 03 FE 17 ED 20 25 32=ExtraInfo=
+30 11662 H 5000=BISS=Moroccan Football=Unknown=4.2.0=20250316-211343 by samirbelg2711=16 03 FE 17 ED 20 25 32=ExtraInfo=
+210 11588 H 5000=BISS=Moroccan Football=Unknown=4.2.0=20250316-212128 by samirbelg2711=16 03 FE 17 ED 20 25 32=ExtraInfo=
 70 12677 H 7200=BISS=Ice Hockey=Unknown=4.2.0=20250126-145200 by tevesat=13 57 AB 15 CD 24 68 59=ExtraInfo=
 160 10973 V 9601=BISS=Ice Hockey=POL 030=4.2.2=20250208-134114 by krzyś1=DC AE 20 AA 25 BB 02 E2=Hockey: EIHC Tournament in Sosnowiec - match: Poland - Hungary=
 70 12686 H 7200=BISS=Ice Hockey=@ EHF (*unnamed-2*)=4.2.0=20250212-164315 by klickklack=13 57 AB 15 CD 24 68 59=Ice Hockey=
@@ -453,23 +532,25 @@ None 10985 V 9600=BISS=Polska Football=POL -111=4.2.2=20250226-185519 by Jacop=D
 390 11017 V 7198=BISS=Ice Hockey=LIVE_BROADCASTING_LINE1=4.2.0=20250218-165637 by Ratzvan=13 57 AB 15 CD 24 68 59=SLOVAKIA: Extraliga, Zvolen - Kosice=
 282 12703 V 7200=BISS=Ice Hockey=@ D-331 Main (none)=4.2.0=20250302-134202 by Satfun2017=02 03 FB 00 FE 12 34 44=ExtraInfo=
 390 10956 V 7200=BISS=Ice Hockey=Unknown=4.2.0=20250307-181414 by Jacop==ExtraInfo=
+20 12605 H 7198=BISS=Ice Hockey=D-331 Main=4.2.0=20250311-163628 by Ratzvan=11 03 DE F2 CC 12 01 DF=GERMANY: DEL - Play Offs, Frankfurt Lowen - Straubing Tigers=
+390 11006 V 7200=BISS=Ice Hockey=: LIVE_BROADCASTING_LINE=4.2.0=20250311-172822 by Ratzvan=13 57 AB 15 CD 24 68 59=SLOVAKIA: Extraliga - Play Offs, HK DUKLA Trenčín - HK Dukla Ingema Michalovce=
+390 11008 V 7198=BISS=Ice Hockey=: LIVE_BROADCASTING_LINE=4.2.0=20250311-172822 by Ratzvan=13 57 AB 15 CD 24 68 59=SLOVAKIA: Extraliga - Play Offs, HK DUKLA Trenčín - HK Dukla Ingema Michalovce=
+160 10985 V 9600=BISS=Ice Hockey=POL 030=4.2.2=20250317-170102 by krzyś1=DC AE 20 AA 25 CC 03 F4=Poland Tauron Hockey League - semi-final match: GKS Tychy - JKH GKS Jastrzębie=
+390 11006 V 7200=BISS=Ice Hockey=GT OPEN MONZA=4.2.0=20250318-173255 by Jacop==ExtraInfo=
+305 11142 V 3500=BISS=Middle East Football=Sng2iq=4.2.0=20250314-184736 by Jacop=BF CC 24 AF 14 03 25 3C=ExtraInfo=
+360 11680 V 3700=BISS=Middle East Football=SNG-1=4.2.0=20250314-202728 by Albahraniy=BF CC 24 AF 14 03 25 3C=ExtraInfo=
+530 11592 V 4000=BISS=Middle East Football=SNG 07 - Chain A=4.2.0=20250317-165900 by Jacop==ExtraInfo=
+530 11596 V 4000=BISS=Middle East Football=SNG 02-Chain A=4.2.0=20250317-170838 by Jacop==ExtraInfo=
+530 11596 V 4000=BISS=Middle East Football=SNG 02-Chain A=4.2.0=20250318-160916 by Jacop=A5 68 06 13 91 78 81 8A=ExtraInfo=
+530 11592 V 4000=BISS=Middle East Football=SNG 07-Chain A=4.2.0=20250318-170335 by Jacop=24 10 69 9D 58 45 46 E3=ExtraInfo=
 -10 12526 V 6660=BISS=Romanian Football=B101 DGI=4.2.0=20250309-074601 by Akrem=09 03 20 2C 25 AB C1 91=ST: 10:00=
 -10 12526 V 6660=BISS=Romanian Football=B191 DGI=4.2.0=20250309-111233 by Akrem=09 03 20 2C 25 AB C3 93=ST: 14:00=
-305 11142 V 3500=BISS=Middle East Football=JECOR 01=4.2.0=20250302-183101 by AhmedCeNa=BF CC 22 AD 02 03 25 2A=ExtraInfo=
-360 11623 V 3700=BISS=Middle East Football=SNG-1=4.2.0=20250302-194448 by Jacop==ExtraInfo=
-305 11142 V 3498=BISS=Middle East Football=IRQ014B=4.2.0=20250303-165724 by Ratzvan=BF CC 22 AD 03 03 25 2B=IRAQ Stars League, Al-Qassim v Al Najaf=
-305 11138 V 3499=BISS=Middle East Football=IQN media service=4.2.0=20250303-165914 by Ratzvan=BF CC 22 AD 03 03 25 2B=IRAQ Stars League, Zakho - Al Minaa=
-360 11624 V 3699=BISS=Middle East Football=SNG-1=4.2.0=20250303-193353 by Ratzvan=BF CC 22 AD 03 03 25 2B=IRAQ Stars League,Al Zawraa - Al Kahraba=
-305 11142 V 3500=BISS=Middle East Football=IRQ014B=4.2.0=20250304-170751 by AhmedCeNa=BF CC 22 AD 04 03 25 2C=ExtraInfo=
-360 11689 V 6664=BISS=Middle East Football=SNG-1 (Asrar CO)=4.2.0=20250304-210336 by Albahraniy=BF CC 22 AD 04 03 25 2C=ExtraInfo=
-390 11457 H 5000=BISS=Middle East Football=Unknown=4.2.0=20250306-194630 by Jacop==ExtraInfo=
-390 11467 H 5000=BISS=Middle East Football=Unknown=4.2.0=20250306-194630 by Jacop==ExtraInfo=
-305 12596 H 5000=BISS=Middle East Football=KUW-003=4.2.0=20250307-173034 by Jacop==ExtraInfo=
-305 11137 V 3500=BISS=Middle East Football=IQN media service=4.2.0=20250307-174432 by Jacop==ExtraInfo=
-305 11099 V 4800=BISS=Middle East Football=Gryphon PV-2=4.2.0=20250309-141421 by AhmedCeNa=12 31 23 66 45 61 23 C9=ExtraInfo=
-305 11138 V 3500=BISS=Middle East Football=ENC1=4.2.0=20250309-182018 by AhmedCeNa=BF CC 22 AE 09 03 25 31=ExtraInfo=
-305 11142 V 3500=BISS=Middle East Football=SNG JECOR=4.2.0=20250309-182118 by AhmedCeNa=BF CC 22 AE 09 03 25 31=ExtraInfo=
-360 11623 V 7300=BISS=Middle East Football=SNG-1=4.2.0=20250309-201043 by Jacop=BF CC 22 AE 09 03 25 31=ExtraInfo=
+-10 12541 V 6658=BISS=Romanian Football=B115DGS=4.2.0=20250310-134344 by Ratzvan=10 03 20 33 25 AB C1 91=Superliga, Botosani v Unirea Slobozia=
+-10 12527 V 6658=BISS=Romanian Football=B 191 DGI=4.2.0=20250310-161617 by Ratzvan=10 03 20 33 25 AB C2 92=Superliga, UTA Arad v Dinamo Bucharest=
+-10 12527 V 6658=BISS=Romanian Football=B115DGS=4.2.0=20250314-134200 by Ratzvan=14 03 20 37 25 AB C1 91=Superliga, Petrolul v Botosani=
+-10 12541 V 6658=BISS=Romanian Football=B115DGS=4.2.0=20250315-104039 by Ratzvan=15 03 20 38 25 AB C4 94=Liga 2, FC Voluntari - Csikszereda M. Ciuc=
+-10 12527 V 6658=BISS=Romanian Football=backup=4.2.0=20250315-105335 by Ratzvan=15 03 20 38 25 AB C4 94=Liga 2, Metaloglobus Bucharest - U Craiova 1948=
+-10 12527 V 6658=BISS=Romanian Football=B115DGS=4.2.0=20250316-094152 by Ratzvan=16 03 20 39 25 AB C1 91=Superliga - Relegation Group, FC Hermannstadt - Unirea Slobozia=
 216 10996 H 7500=BISS=Sport Shows & News=Service- 1A=4.2.0=20250105-200732 by omid1348=14 14 C9 F1 4B 3C FE 85=ExtraInfo=
 70 11011 V 7198=BISS=Sport Shows & News=IMG A EU=4.2.0=20250108-145327 by Ratzvan=AB 01 20 CC 18 20 25 5D=TRANS WORLD SPORT MAGAZINE=
 1005 3860 V 30000=BISS=Sport Shows & News=IMG Asia=4.2.0=20250115-103019 by Satfun2017=AB 01 20 CC 18 20 25 5D=ExtraInfo=
@@ -487,6 +568,8 @@ None 10985 V 9600=BISS=Polska Football=POL -111=4.2.2=20250226-185519 by Jacop=D
 70 11011 V 7200=BISS=Sport Shows & News=IMG A EU=4.2.0=20250219-151411 by omid1348=AB 02 19 C6 74 20 25 B9=ExtraInfo=
 216 10996 H 7500=BISS=Sport Shows & News=Service- 1A=4.2.0=20250221-203109 by omid1348=DF 23 03 05 D6 92 C3 2B=ExtraInfo=
 70 11011 V 7199=BISS=Sport Shows & News=IMG A EU=4.2.0=20250305-112158 by Ratzvan=AB 03 19 C7 78 20 25 BD=TRANS WORLD SPORT MAGAZINE=
+530 11602 V 4000=BISS=Sport Shows & News=UAE -073 M=4.2.0=20250318-170055 by Jacop=75 65 C1 9B 20 48 88 F0=ExtraInfo=
+70 12593 V 9600=BISS=Sport Shows & News=@ POL 068 CH1 (Polsat)=4.2.0=20250318-192114 by klickklack=52 71 41 04 27 88 57 06=ExtraInfo=
 1005 3975 V 7200=BISS=Judo - Karate Feeds=Fi04 JPKDDI=4.2.0=20241207-074218 by Albahraniy=6E C1 7B AA A2 8D F3 22=ExtraInfo=
 70 11587 V 7200=BISS=Judo - Karate Feeds=Fi04 JPKDDI=4.2.0=20241207-080637 by Albahraniy=6E C1 7B AA A2 8D F3 22=ExtraInfo=
 70 11578 V 7200=BISS=Judo - Karate Feeds=Fi03_JPKDDI=4.2.0=20241207-081133 by Albahraniy=6E C1 7B AA A2 8D F3 22=ExtraInfo=
@@ -507,15 +590,7 @@ None 10985 V 9600=BISS=Polska Football=POL -111=4.2.2=20250226-185519 by Jacop=D
 1005 3935 H 7200=BISS=Judo - Karate Feeds=Unknown=4.2.0=20250308-154641 by Abo Saeid Satellite=15 24 DE 17 CB 63 2D 5B=ExtraInfo=
 1005 12695 V 7200=BISS=Judo - Karate Feeds=Unknown=4.2.0=20250308-154641 by Abo Saeid Satellite=15 24 DE 17 CB 63 2D 5B=ExtraInfo=
 70 12695 V 7200=BISS=Judo - Karate Feeds=Unknown=4.2.0=20250308-181003 by Tripod=15 24 DE 17 CB 63 2D 5B=ExtraInfo=
-70 12606 V 9600=BISS=TV Show Feeds=@ POL 068 CH1 (Polsat)=4.2.0=20250228-191854 by klickklack=52 71 41 04 27 88 57 06=ExtraInfo=
-282 12688 H 15000=BISS=TV Show Feeds=ITV DOI Sat B/U (*unnamed-1*)=4.2.2=20250302-170534 by Satfun2017=12 BB CA 97 22 BB 34 11=ExtraInfo=
-260 12522 V 4440=BISS=TV Show Feeds=Service 1=4.2.0=20250302-173236 by Jacop==ExtraInfo=
-305 12521 V 3580=BISS=TV Show Feeds=DABE3=4.2.0=20250302-192906 by Jacop=70 70 70 50 70 70 70 50=ExtraInfo=
-282 12511 H 7500=BISS=TV Show Feeds=BEL095 MAIN WOM=4.2.0=20250304-155442 by archiesat=20 25 BE 03 EF CA FE B7=ExtraInfo=
--10 11468 V 15000=BISS=TV Show Feeds=Unknown=4.2.2=20250306-200354 by archiesat=CE 58 78 9E B7 C4 B9 34=ExtraInfo=
-305 11096 V 2000=BISS=TV Show Feeds=MTV LEBANON=4.2.0=20250307-200332 by Jacop=12 34 50 96 98 76 45 53=ExtraInfo=
-70 11135 H 7500=BISS=TV Show Feeds=@ UKI-1852 C1 (GoingLiveTV.co.uk)=4.2.0=20250308-193210 by klickklack=14 3A C9 17 FA 26 56 76=Red Bull Culture Clash London 2025=
-70 11171 V 7120=BISS=TV Show Feeds=@ NLEMG HOL309-1 (EMG Connectivity)=4.2.0=20250309-203447 by klickklack=4D BB C3 CB 11 A2 43 F6=Postcodeloterij Netherlands=
+530 11592 V 4000=BISS=Judo - Karate Feeds=Unknown=4.2.0=20250312-185703 by Jacop=9A 48 77 59 C1 63 25 49=ExtraInfo=
 235 11462 V 6898=BISS=Bulgaria Football=ATV Broadcast Solutions=4.2.0=20241030-111140 by Ratzvan=56 27 89 06 14 20 35 69=Bulgarian Cup, Kyustendil - Cherno More=
 235 11462 V 6898=BISS=Bulgaria Football=ATV Broadcast Solutions=4.2.0=20241108-124114 by Ratzvan=58 92 46 30 30 97 21 E8=Parva liga, Arda - Botev Vratsa=
 235 11489 V 6900=BISS=Bulgaria Football=ATV Broadcast Solutions=4.2.0=20241123-101844 by Ratzvan=02 43 57 9C 16 98 41 EF=Parva liga, Arda - Lok. Plovdiv=
@@ -526,41 +601,50 @@ None 10985 V 9600=BISS=Polska Football=POL -111=4.2.2=20250226-185519 by Jacop=D
 -10 11508 V 6898=BISS=Bulgaria Football=ATV Broadcast Solutions=4.2.0=20250214-122531 by Ratzvan=28 64 71 FD 35 90 25 EA=Vtora liga, Marek - Minyor Pernik=
 -10 11473 V 6900=BISS=Bulgaria Football=ATV Broadcast Solutions=4.2.0=20250222-112111 by archiesat=83 50 26 F9 73 14 52 D9=ExtraInfo=
 -10 11482 V 6898=BISS=Bulgaria Football=ATV Broadcast Solutions=4.2.0=20250303-101754 by Ratzvan=13 50 27 8A 46 89 13 E2=Parva liga, Arda v CSKA 1948 Sofia=
+70 12606 V 9600=BISS=TV Show Feeds=@ POL 068 CH1 (Polsat)=4.2.0=20250228-191854 by klickklack=52 71 41 04 27 88 57 06=ExtraInfo=
+282 12688 H 15000=BISS=TV Show Feeds=ITV DOI Sat B/U (*unnamed-1*)=4.2.2=20250302-170534 by Satfun2017=12 BB CA 97 22 BB 34 11=ExtraInfo=
+260 12522 V 4440=BISS=TV Show Feeds=Service 1=4.2.0=20250302-173236 by Jacop==ExtraInfo=
+305 12521 V 3580=BISS=TV Show Feeds=DABE3=4.2.0=20250302-192906 by Jacop=70 70 70 50 70 70 70 50=ExtraInfo=
+282 12511 H 7500=BISS=TV Show Feeds=BEL095 MAIN WOM=4.2.0=20250304-155442 by archiesat=20 25 BE 03 EF CA FE B7=ExtraInfo=
+-10 11468 V 15000=BISS=TV Show Feeds=Unknown=4.2.2=20250306-200354 by archiesat=CE 58 78 9E B7 C4 B9 34=ExtraInfo=
+305 11096 V 2000=BISS=TV Show Feeds=MTV LEBANON=4.2.0=20250307-200332 by Jacop=12 34 50 96 98 76 45 53=ExtraInfo=
+70 11135 H 7500=BISS=TV Show Feeds=@ UKI-1852 C1 (GoingLiveTV.co.uk)=4.2.0=20250308-193210 by klickklack=14 3A C9 17 FA 26 56 76=Red Bull Culture Clash London 2025=
+70 11171 V 7120=BISS=TV Show Feeds=@ NLEMG HOL309-1 (EMG Connectivity)=4.2.0=20250309-203447 by klickklack=4D BB C3 CB 11 A2 43 F6=Postcodeloterij Netherlands=
+-80 12659 V 7500=BISS=TV Show Feeds=ITA555 feed 1=4.2.2=20250310-191820 by fusillo=69 59 AD 6F DC 14 11 01=ExtraInfo=
+-80 12681 V 4800=BISS=TV Show Feeds=Unknown=4.2.0=20250314-183508 by girard==ExtraInfo=
+70 12594 V 9600=BISS=TV Show Feeds=POL-080 UHD CH2=4.2.2=20250316-183117 by Icone=52 71 41 04 27 88 57 06=ExtraInfo=
+70 11162 H 7119=BISS=TV Show Feeds=NLEMG HOL312-1=4.2.0=20250316-194502 by Albahraniy=4D BB C3 CB 11 A2 43 F6=Postcodeloterij Netherlands=
+70 11042 V 7200=BISS=Eurovision & News=ENC6=4.2.0=20250311-054203 by Albahraniy==ExtraInfo=
+305 12601 H 5000=BISS=Eurovision & News=KUW-002=4.2.0=20250311-152724 by Jacop=10 00 20 30 00 90 00 90=ExtraInfo=
+192 11599 V 4800=BISS=Eurovision & News=D233=4.2.0=20250312-154022 by AhmedCeNa=49 22 89 F4 58 44 00 9C=ExtraInfo=
+260 12729 H 3330=BISS=Eurovision & News=Service 1=4.2.0=20250315-000307 by klickklack==ExtraInfo=
+70 12593 V 9597=BISS=Eurovision & News=Unknown=4.2.0=20250316-073911 by Robertooo=52 71 41 04 27 88 57 06=ExtraInfo=
+70 11492 V 3333=BISS=Eurovision & News=SNG-D-M=4.2.0=20250318-105852 by kahub=11 03 20 34 25 00 00 25=ExtraInfo=
+160 12655 H 4444=BISS=Eurovision & News=Unknown=4.2.0=20250318-142010 by falcones==ExtraInfo=
+160 11072 H 7498=BISS=Eurovision & News=Unknown=4.2.0=20250318-170443 by Robertooo=77 93 52 5C 99 08 86 27=ExtraInfo=
+160 12554 V 4800=BISS=Eurovision & News=POL103 (POLSAT)=4.2.2=20250318-171411 by krzyś1=52 71 41 04 27 88 57 06=ExtraInfo=
 70 12685 V 7200=BISS=Equestrian Feeds=@ MDN - PRESS FEDD MAIN (*unnamed-1*)=4.2.0=20250301-111639 by klickklack=23 DA AC A9 C1 20 DC BD=ExtraInfo=
 70 12694 V 7200=BISS=Equestrian Feeds=@ MDN - PRESS FEDD MAIN (*unnamed-1*)=4.2.0=20250301-111639 by klickklack=23 DA AC A9 C1 20 DC BD=ExtraInfo=
 31 10978 H 7500=BISS=Equestrian Feeds=beIN SPORTS HD=4.2.0=20250301-141758 by Dani Sat=80 02 78 FA 1E 30 3A 88=ExtraInfo=
 70 12677 V 7200=BISS=Equestrian Feeds=golfbh=4.2.0=20250306-161840 by AhmedCeNa=13 CB BD 9B C1 20 CA AB=ExtraInfo=
 70 12649 V 7198=BISS=Equestrian Feeds=MDN TRACK FEED MAIN=4.2.0=20250307-101617 by Ratzvan=23 DA AC A9 C1 20 DC BD=DUBAI RACING CARNIVAL=
 -10 10974 V 7198=BISS=Equestrian Feeds=(empty)=4.2.0=20250308-075409 by Ratzvan=2F 95 74 38 C5 6D 7D AF=ITV RACING=
-70 10994 H 4937=BISS=Eurovision & News=@ DEARD ENC1 (EBU Eurovision)=4.2.0=20250223-155202 by klickklack=CB D3 FA 98 C3 0C 37 06=ExtraInfo=
-1005 3986 H 7200=BISS=Eurovision & News=Unknown=4.2.0=20250224-065239 by orangebirds==ExtraInfo=
-160 10970 V 4800=BISS=Eurovision & News=POL-077 ENC-1=4.2.2=20250224-101144 by kahub=DC AE 20 AA 25 AA 01 D0=33. Finał Wielkiej Orkiestry Świątecznej Pomocy=
--80 12607 V 3615=BISS=Eurovision & News=NLEMG HOL317-1=4.2.0=20250225-162255 by AhmedCeNa=AA 5A FF 03 57 98 E4 D3=ExtraInfo=
-70 11044 H 4936=BISS=Eurovision & News=ZZGVA1 ENC1=4.2.0=20250226-083624 by Mikse=C3 90 82 D5 D7 E7 9D 5B=ExtraInfo=
-70 11050 H 4936=BISS=Eurovision & News=ZZGVA1 ENC1=4.2.0=20250226-083624 by Mikse=C3 90 82 D5 D7 E7 9D 5B=ExtraInfo=
-70 11056 H 4937=BISS=Eurovision & News=ZZGVA1 ENC1=4.2.0=20250226-083624 by Mikse=C3 90 82 D5 D7 E7 9D 5B=ExtraInfo=
-70 11024 H 4937=BISS=Eurovision & News=@ ATORF ENC1 (EBU Eurovision)=4.2.0=20250226-153504 by klickklack=CB D3 FA 98 C3 0C 37 06=ExtraInfo=
-160 12648 H 4444=BISS=Eurovision & News=POL-081 c1=4.2.0=20250227-085042 by kahub=52 71 41 04 27 88 57 06=ExtraInfo=
--80 12607 V 3615=BISS=Eurovision & News=NLEMG HOL317-1=4.2.0=20250301-160656 by AhmedCeNa=AA 5A FF 03 57 98 E4 D3=ExtraInfo=
-192 11208 H 7200=BISS=Eurovision & News=D415 path1=4.2.2=20250302-160748 by AhmedCeNa=49 22 89 F4 58 44 00 9C=ExtraInfo=
-260 12729 H 3330=BISS=Eurovision & News=Service 1=4.2.0=20250302-173502 by Jacop==ExtraInfo=
-70 11606 V 7121=BISS=Eurovision & News=Service-Name : NLEMG HOL 219-1=4.2.0=20250302-221859 by klickklack=76 5B DA AB 78 C2 13 4D=ExtraInfo=
-1005 3806 H 7200=BISS=Eurovision & News=Unknown=4.2.0=20250303-080052 by orangebirds==ExtraInfo=
-70 11024 H 4937=BISS=Eurovision & News=@ ATORF ENC1 (EBU Eurovision)=4.2.0=20250303-090132 by klickklack=CB D3 FA 98 C3 0C 37 06=ExtraInfo=
-70 11108 H 4937=BISS=Eurovision & News=@ ATORF ENC1 (EBU Eurovision)=4.2.0=20250303-090132 by klickklack=CB D3 FA 98 C3 0C 37 06=ExtraInfo=
-70 11107 V 4937=BISS=Eurovision & News=@ FIYLE ENC2 (EBU Eurovision)=4.2.0=20250303-101812 by klickklack=C3 90 82 D5 D7 E7 9D 5B=ExtraInfo=
-160 10977 V 4800=BISS=Eurovision & News=@ POL-10 ENC1 (TVP S.A.)=4.2.0=20250303-114839 by klickklack=DC AE 20 AA 25 CC 03 F4=ExtraInfo=
-160 12649 H 4444=BISS=Eurovision & News=Unknown=4.2.0=20250303-120715 by klickklack=52 71 41 04 27 88 57 06=ExtraInfo=
-160 12655 H 4444=BISS=Eurovision & News=Unknown=4.2.0=20250303-120715 by klickklack=52 71 41 04 27 88 57 06=ExtraInfo=
-160 10971 V 4800=BISS=Eurovision & News=@ POL-48 ENC2 (*unnamed-348*)=4.2.0=20250303-122357 by klickklack=DC AE 20 AA 25 CC 03 F4=ExtraInfo=
-70 11071 H 7200=BISS=Eurovision & News=ENC6=4.2.0=20250304-034652 by AhmedCeNa=EF 12 AB AC 34 CD 85 86=ExtraInfo=
-70 11070 H 7200=BISS=Eurovision & News=@ ENC6 (Service Provider)=4.2.0=20250305-005353 by klickklack=EF 12 AB AC 34 CD 85 86=ExtraInfo=
-70 11682 V 2500=BISS=Eurovision & News=@ K24-SNG-SULIMANI (Kurdistan 24)=4.2.0=20250305-114645 by klickklack=12 34 51 97 23 45 12 7A=ExtraInfo=
-70 11126 H 7200=BISS=Badminton Feeds=F504/FLY6/Encoder 6.1 HD B=4.2.0=20250308-093244 by Jacop=D1 71 36 78 F9 78 3F B0=ExtraInfo=
-70 11126 H 7200=BISS=Badminton Feeds=F504/FLY6/Encoder 6.1 HD B=4.2.0=20250309-093807 by Akrem=D1 71 36 78 F9 78 3F B0=ExtraInfo=
-1005 4157 H 7200=BISS=Badminton Feeds=Unknown=4.2.0=20250309-094954 by Forsat=6F D3 2E 70 75 B6 77 A2=ExtraInfo=
+-10 10975 V 7200=BISS=Equestrian Feeds=Unknown=4.2.0=20250311-070926 by archiesat=C7 99 67 C7 9E BE 6A C6=ExtraInfo=
+70 11523 V 7200=BISS=Equestrian Feeds=Unknown=4.2.0=20250311-122804 by Abo Saeid Satellite=8B BE 92 DB 69 F4 3D 9A=ExtraInfo=
+-10 10975 V 7200=BISS=Equestrian Feeds=Unknown=4.2.0=20250312-081825 by archiesat==ExtraInfo=
+-10 10975 V 7200=BISS=Equestrian Feeds=Unknown=4.2.0=20250313-072536 by archiesat==ExtraInfo=
+-10 10975 V 7200=BISS=Equestrian Feeds=Unknown=4.2.0=20250314-072040 by archiesat==ExtraInfo=
+70 12685 V 7198=BISS=Equestrian Feeds=MDN TRACK FEED MAIN=4.2.0=20250314-095720 by Ratzvan=23 DA AC A9 C1 20 DC BD=DUBAI RACING CARNIVAL=
+70 11522 V 7200=BISS=Equestrian Feeds=*unnamed-1*=4.2.0=20250314-122556 by Albahraniy=8B BE 92 DB 69 F4 3D 9A=ExtraInfo=
+-10 10975 V 7200=BISS=Equestrian Feeds=Unknown=4.2.0=20250315-073250 by archiesat=C7 99 67 C7 9E BE 6A C6=ExtraInfo=
+530 11614 V 8000=BISS=Equestrian Feeds=SNG 05-Chain A=4.2.0=20250316-185311 by Jacop=20 12 63 95 96 45 45 20=ExtraInfo=
+160 10995 V 7200=BISS=Badminton Feeds=Brim Bad Court 1=4.2.0=20250316-154152 by Jacop=FF 87 D3 59 A1 A9 9D E7=ExtraInfo=
 1005 4135 H 7200=BISS=Japan Football=Unknown=4.2.0=20250309-043249 by HBO==ExtraInfo=
 70 12726 V 7200=BISS=Japan Football=ENC 8=4.2.0=20250309-043634 by Albahraniy==ExtraInfo=
+1005 3862 V 30001=BISS=Japan Football=IMG Asia (Provider ID: Eurovision)=4.2.0=20250316-035018 by safrifulkamal=BE 71 AA D9 CE 01 2A F9=Japan - J1 League Matchday 6=
+1005 3915 V 7200=BISS=Japan Football=Unknown=4.2.0=20250316-042139 by HBO==ExtraInfo=
+70 12735 V 7198=BISS=Japan Football=ENC 4=4.2.0=20250316-042433 by Ratzvan=FE CA 91 59 82 98 EE 08=J1 League, Yokohama F. Marinos - Gamba Osaka=
+1005 4115 H 7200=BISS=Japan Football=Unknown=4.2.0=20250316-053214 by HBO=63 FE AC 0D 12 00 ED FF=ExtraInfo=
 785 11185 H 5000=FTA=Iran Football=ARAK_SNG=4.2.0=20240412-155358 by mhm121==Pro League=
 70 12696 V 7200=BISS=Iran Football=ATEME_ENC_6=4.2.0=20240501-155428 by Saint Hubert=01 05 DD E3 AA 20 24 EE=Pro League=
 620 10965 V 7500=BISS=Iran Football=Unname=4.2.0=20240528-154806 by Icone=55 00 00 55 00 00 00 00=Pro League=
@@ -590,6 +674,16 @@ None 10985 V 9600=BISS=Polska Football=POL -111=4.2.2=20250226-185519 by Jacop=D
 305 12534 V 8400=BISS=Egyptian Football=EGY-24=4.2.0=20250308-190350 by Jacop=CA FE FA C2 BD A2 16 75=ExtraInfo=
 260 12737 H 5000=BISS=Egyptian Football=OB-HD1=4.2.0=20250308-190525 by Jacop=CA FE FA C2 BD A2 16 75=ExtraInfo=
 260 12734 H 2500=BISS=Egyptian Football=HD (2) RADAMAN LEAGUE=4.2.0=20250309-183642 by AhmedCeNa=FA BB CB 80 DD 20 02 FF=ExtraInfo=
+70 10996 V 7200=BISS=Egyptian Football=ANA OD=4.2.0=20250311-145332 by AhmedCeNa=79 68 DE BF FF 4A 5C A5=ExtraInfo=
+260 12732 H 2400=BISS=Egyptian Football=EGY-HD22=4.2.0=20250311-193151 by Jacop=FE ED 02 ED 25 AD BC 8E=ExtraInfo=
+260 12738 H 2400=BISS=Egyptian Football=HD (2) GUNAH vs ET7A=4.2.0=20250311-193700 by Jacop=FE ED 02 ED 25 AD BC 8E=ExtraInfo=
+260 12739 H 5000=BISS=Egyptian Football=Egy OB HD4=4.2.0=20250313-180005 by AhmedCeNa=FE ED 02 ED 25 AD BC 8E=ExtraInfo=
+305 12532 V 3600=BISS=Egyptian Football=HD(2) RMDAN LEUGE=4.2.0=20250313-185536 by Jacop=BC FF AD 68 EE 80 88 F6=ExtraInfo=
+305 12532 V 3600=BISS=Egyptian Football=HD(2) RMDAN LEAUG=4.2.0=20250314-185154 by Jacop=BC DD AE 47 DD BC DD 76=ExtraInfo=
+0 12533 V 2400=BISS=Egyptian Football=EGY - 24=4.2.0=20250315-190924 by Jacop==ExtraInfo=
+260 12734 H 2400=BISS=Egyptian Football=Egy OB HD4=4.2.0=20250315-192621 by AhmedCeNa=CA FE FA C2 BD A0 40 9D=ExtraInfo=
+260 12738 H 2400=BISS=Egyptian Football=Unname=4.2.0=20250315-192648 by Jacop==ExtraInfo=
+260 12735 H 7400=BISS=Egyptian Football=4K_23-MAIN=4.2.0=20250318-190451 by Jacop=EF AB FE 98 A0 2E 02 D0=ExtraInfo=
 160 10974 H 4937=BISS=Serbian Football=YSM-012 Main=4.2.0=20241204-182100 by omid1348=20 25 CC 11 CC 20 24 10=ExtraInfo=
 70 12650 V 4937=BISS=Serbian Football=YSM-013M=4.2.0=20241208-174529 by Espinosa=20 25 CC 11 CC 20 24 10=ExtraInfo=
 160 12573 H 4936=BISS=Serbian Football=YSM-013M=4.2.0=20241212-154734 by Ratzvan=20 25 CC 11 CC 20 24 10=Super Liga, Sp. Subotica - Partizan=
@@ -607,6 +701,7 @@ None 10985 V 9600=BISS=Polska Football=POL -111=4.2.2=20250226-185519 by Jacop=D
 0 12644 V 4938=BISS=Serbian Football=Unknown=4.2.0=20250226-182637 by Espinosa==ExtraInfo=
 160 12571 H 4937=BISS=Serbian Football=YSM-013M=4.2.0=20250302-124730 by Espinosa=20 25 CC 11 CC 20 24 10=ExtraInfo=
 160 12577 H 4936=BISS=Serbian Football=Unknown=4.2.0=20250308-171930 by Robertooo=20 25 CC 11 CC 20 24 10=ExtraInfo=
+70 12651 V 4937=BISS=Serbian Football=YSM-013M=4.2.0=20250312-143931 by Espinosa=20 25 CC 11 CC 20 24 10=ExtraInfo=
 1005 3887 V 7200=BISS=Korea Football=Unknown=4.2.0=20250222-070541 by orangebirds==ExtraInfo=
 1005 3887 V 7200=BISS=Korea Football=Unknown=4.2.0=20250223-044015 by orangebirds==ExtraInfo=
 1005 3832 V 7200=BISS=Korea Football=Unknown=4.2.0=20250223-071107 by orangebirds==ExtraInfo=
@@ -618,26 +713,15 @@ None 10985 V 9600=BISS=Polska Football=POL -111=4.2.2=20250226-185519 by Jacop=D
 1005 3895 V 7200=BISS=Korea Football=Unknown=4.2.0=20250308-070630 by HBO=60 CE E5 13 F1 DF 70 40=ExtraInfo=
 1005 3885 V 7200=BISS=Korea Football=TXout-1 RXout-9=4.2.0=20250309-044025 by HBO=21 AA E8 B3 F1 DF 7B 4B=ExtraInfo=
 1005 3895 V 7200=BISS=Korea Football=Unknown=4.2.0=20250309-070705 by HBO=80 CA E5 2F F1 CF 7C 3C=ExtraInfo=
-1005 3747 H 7120=BISS=Snooker Feeds=Unknown=4.2.0=20241208-073659 by orangebirds==ExtraInfo=
-1005 3905 V 7200=BISS=Snooker Feeds=Unknown=4.2.0=20241209-121902 by orangebirds==ExtraInfo=
-1005 3905 V 7200=BISS=Snooker Feeds=Unknown=4.2.0=20241214-131921 by xachik==ExtraInfo=
-1005 3914 V 7200=BISS=Snooker Feeds=Unknown=4.2.0=20241214-131921 by xachik==ExtraInfo=
-1005 3914 V 7200=BISS=Snooker Feeds=Unknown=4.2.0=20241218-135522 by Albahraniy==ExtraInfo=
-70 11650 V 7200=BISS=Snooker Feeds=E-375 A=4.2.0=20241218-145226 by believing_boy=14 78 CA 56 CA 36 71 71=ExtraInfo=
-70 11088 H 7200=BISS=Snooker Feeds=UAE 101 MAIN=4.2.0=20241220-184319 by Icone=E1 01 A0 82 9B 12 17 C4=ExtraInfo=
--10 11463 V 7198=BISS=Snooker Feeds=DNK47_ENC1=4.2.2=20241227-180007 by Ratzvan=12 AB 34 F1 CD 56 EF 12=Skomar Champ, Denmark=
-1005 3860 V 30000=BISS=Snooker Feeds=IMG Asia=4.2.0=20250112-101416 by Albahraniy=20 25 20 65 AC AB 25 7C=ExtraInfo=
-1005 3913 V 7200=BISS=Snooker Feeds=ENC 6 - NEW ID : ENC 22=4.2.0=20250114-133846 by Albahraniy=20 25 20 65 AC AB 25 7C=ExtraInfo=
-160 11135 H 7200=BISS=Snooker Feeds=ITA672=4.2.0=20250120-152114 by omid1348=44 C4 66 6E D6 BA 6F FF=ExtraInfo=
-1005 3914 V 7200=BISS=Snooker Feeds=Unknown=4.2.0=20250127-122836 by orangebirds==ExtraInfo=
-1005 3913 V 7200=BISS=Snooker Feeds=ENC 21=4.2.0=20250216-122437 by Albahraniy=C4 44 87 8F 6B BB DC 02=ExtraInfo=
-1005 3905 V 7200=BISS=Snooker Feeds=Unknown=4.2.0=20250222-225143 by HBO=C4 44 87 8F 6B BB DC 02=ExtraInfo=
-1005 3915 V 7200=BISS=Snooker Feeds=Unknown=4.2.0=20250222-225313 by HBO=FC C2 6D 2B DD A6 A7 2A=ExtraInfo=
-1005 3916 V 7200=BISS=Snooker Feeds=ENC 8=4.2.0=20250223-031922 by Albahraniy=FC C2 6D 2B DD A6 A7 2A=ExtraInfo=
-1005 12639 H 14400=BISS=Snooker Feeds=Unknown=4.2.0=20250223-033411 by yyxiaofeng=85 BB 06 46 11 70 AA 2B=ExtraInfo=
-1005 3905 V 7200=BISS=Snooker Feeds=Unknown=4.2.0=20250304-031040 by orangebirds==ExtraInfo=
-1005 3914 V 7200=BISS=Snooker Feeds=Unknown=4.2.0=20250304-031040 by orangebirds==ExtraInfo=
--250 3860 V 30000=BISS=Snooker Feeds=IMG Asia=4.2.0=20250305-043759 by Albahraniy==ExtraInfo=
+1005 3805 V 7200=BISS=Korea Football=TXout-1 RXout-9=4.2.0=20250315-043812 by HBO=54 CA 1A 38 F7 BD 9F 53=ExtraInfo=
+1005 3815 V 7200=BISS=Korea Football=Unknown=4.2.0=20250315-070852 by HBO=C7 1A 18 F9 D8 C8 AB 4B=ExtraInfo=
+1005 3805 V 7200=BISS=Korea Football=TXout-1 RXout-9=4.2.0=20250316-043211 by HBO=C2 3A 5B 57 3A 8A 15 D9=ExtraInfo=
+1005 3815 V 7200=BISS=Korea Football=Unknown=4.2.0=20250316-070715 by HBO=3A 7B BA 6F 37 1B 84 D6=ExtraInfo=
+-30 10996 V 10000=BISS=Snooker Feeds=ITV Sports Snooker players Champ=4.2.0=20250317-173029 by archiesat=1C 3F D4 2F 15 C1 D2 A8=ExtraInfo=
+1005 3915 V 7200=BISS=Snooker Feeds=Unknown=4.2.0=20250318-183037 by Forsat==ExtraInfo=
+305 11183 V 7500=BISS=Padel Feeds=PADEL MAIN=4.2.0=20241205-194736 by omid1348=0A 68 FD 6F DD 76 C6 19=ExtraInfo=
+390 11456 H 5000=BISS=Padel Feeds=KUW-002=4.2.0=20241211-122137 by omid1348=19 74 19 A6 74 19 74 01=ExtraInfo=
+70 11543 V 7200=BISS=Padel Feeds=Hexagon Cup=4.2.2=20250128-153546 by omid1348=2A AA 21 F5 3A 32 1A 86=ExtraInfo=
 70 12686 H 7200=BISS=Field Hockey=DMC In Sport 3=4.2.0=20240113-171402 by rama11=AA 11 BB 76 22 CC 33 21=ExtraInfo=
 70 11180 H 7200=BISS=Field Hockey=Unknown=4.2.0=20240115-093220 by Ratzvan=AA 11 BB 76 22 CC 33 21=Olympic Games - Qualification, Germany - Canada=
 70 11163 H 7199=BISS=Field Hockey=DMC In Sport 3=4.2.0=20240118-134652 by Ratzvan=AA 11 BB 76 22 CC 33 21=Olympic Games - Qualification Women, Germany - India=
@@ -669,9 +753,6 @@ None 10985 V 9600=BISS=Polska Football=POL -111=4.2.2=20250226-185519 by Jacop=D
 160 11162 H 7201=BISS=Fencing Feeds=ITA633_A (ITA633_A)=4.2.0=20240610-140629 by Abo Saeid Satellite=FA BD 55 0C 99 DB AF 23=ExtraInfo=
 70 11078 V 7200=BISS=Fencing Feeds=M57-TUN009-Backup=4.2.0=20250112-160014 by Icone=24 6C DF 6F 3D E9 0D 33=ExtraInfo=
 70 11071 H 7200=BISS=Fencing Feeds=Unknown=4.2.0=20250126-152530 by tevesat=5C E9 CC 11 B3 8F D1 13=ExtraInfo=
-305 11183 V 7500=BISS=Padel Feeds=PADEL MAIN=4.2.0=20241205-194736 by omid1348=0A 68 FD 6F DD 76 C6 19=ExtraInfo=
-390 11456 H 5000=BISS=Padel Feeds=KUW-002=4.2.0=20241211-122137 by omid1348=19 74 19 A6 74 19 74 01=ExtraInfo=
-70 11543 V 7200=BISS=Padel Feeds=Hexagon Cup=4.2.2=20250128-153546 by omid1348=2A AA 21 F5 3A 32 1A 86=ExtraInfo=
 160 11107 H 7200=FTA=Golf Feeds='GesAdtec5'=4.2.0=20250308-040336 by 117==ExtraInfo=
 -890 4087 H 7500=FTA=Golf Feeds=Unknown=4.2.0=20250308-051844 by eskimo nel==ExtraInfo=
 -890 4106 H 7200=FTA=Golf Feeds=Unknown=4.2.0=20250308-051844 by eskimo nel==ExtraInfo=
